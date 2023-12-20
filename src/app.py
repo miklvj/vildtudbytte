@@ -39,8 +39,8 @@ df['Taken game log'] = np.log(df['Taken game'] + 1)
 
 fig = px.sunburst(
     data_frame=df,
-    width=450,
-    height=450,
+    width=475,
+    height=475,
     path=["Group", "Species"],
     color="Group",
     color_discrete_sequence=px.colors.qualitative.Pastel,
@@ -75,23 +75,20 @@ min_year = df['Year'].min()
 species_options = [{'label': str(species_), 'value': species_} for species_ in df['Species'].unique()]
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-server = app.server
-
 app.layout = dbc.Container([
     dcc.Location(id='url', refresh=True),
-
     dbc.Row([       
         dbc.Col([
             dbc.Button("Reset", outline=True, size="lg", color="danger", className="me-1", style={'margin-top': '20px'}, id='refresh-button'),
-        ], width={'size': 1, 'order': 1}),
-        
+        ], width=1),
         dbc.Col([
-            dcc.Graph(id="species_sunburst", figure=fig, style={'height': '100%', 'width': '100%'}),
-        ], width={'size': 5, 'order': 2}, lg=5, md=12),
+            dcc.Graph(id="species_sunburst", figure=fig, style={'margin-top': '20px', 'margin-bottom': '40px'}), # Increased margin-bottom
+        ], width=5),
 
         dbc.Col([
-            dcc.Graph(id="map", style={'height': '70vh', 'width': '100%'}),
-        ], width={'size': 6, 'order': 3}, lg=6, md=12)
+            dcc.Graph(id="map", style={'margin-top': '40px', 'margin-bottom': '40px', "height": "70vh"}), # Increased margin-bottom
+        ], width=6)
+        
     ]),
 
     dbc.Row([
@@ -109,21 +106,22 @@ app.layout = dbc.Container([
         ], width=12)
     ]),
 
+
     dbc.Row([
         dbc.Col([
             html.Div([
-                html.Div(dcc.Graph(id="kommune_graph"), id="div_kommune_graph", style={'display': 'inline-block', 'width': '100%'}),
-                html.Div(dcc.Graph(id="kommune_graph_2"), id="div_kommune_graph_2", style={'display': 'inline-block', 'width': '0%'})
+            html.Div(dcc.Graph(id="kommune_graph"), id="div_kommune_graph", style={'display': 'inline-block', 'width': '100%'}),
+            html.Div(dcc.Graph(id="kommune_graph_2"), id="div_kommune_graph_2", style={'display': 'inline-block', 'width': '0%'})
             ], style={'display': 'flex', 'flex-direction': 'row'})
-        ], width=12),
+        ]),
     ]),
 
     dbc.Row([
         dbc.Col([
             html.Div(id="detailed_graph_container", children=[
-                dcc.Graph(id="detailed_graph", style={'height': '100%', 'width': '100%'})
+                dcc.Graph(id="detailed_graph")
             ], style={'display': 'none'})  # Initially hide the container
-        ], width=12)
+        ])
     ])
 
 ], fluid=True)

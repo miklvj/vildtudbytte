@@ -75,6 +75,7 @@ min_year = df['Year'].min()
 species_options = [{'label': str(species_), 'value': species_} for species_ in df['Species'].unique()]
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 app.layout = dbc.Container([
     dcc.Location(id='url', refresh=True),

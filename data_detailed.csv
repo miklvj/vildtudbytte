@@ -4378,7 +4378,6 @@ Year,Kommune,Species,Køn,Type,Total
 2019,Syddjurs,Dådyr,Han,Kalv,6.0
 2019,Syddjurs,Dådyr,Hun,Kalv,12.0
 2019,Syddjurs,Dådyr,,Kalv,9.0
-2019,Syddjurs,Dådyr,Hun,Ikke angivet,2.0
 2019,Norddjurs,Dådyr,Han,Dåhjort,25.0
 2019,Norddjurs,Dådyr,Han,Dåhjort,29.0
 2019,Norddjurs,Dådyr,Han,Dåhjort,12.0
@@ -8612,7 +8611,6 @@ Year,Kommune,Species,Køn,Type,Total
 2016,Hjørring,Krondyr,Han,Kalv,4.0
 2016,Hjørring,Krondyr,Hun,Kalv,6.0
 2016,Hjørring,Krondyr,,Kalv,7.0
-2017,Gentofte,Krondyr,Han,Ikke angivet,1.0
 2017,Lyngby-Taarbæk,Krondyr,Han,Kronhjort,1.0
 2017,Lyngby-Taarbæk,Krondyr,Han,Kalv,2.0
 2017,Lyngby-Taarbæk,Krondyr,Hun,Kalv,1.0
@@ -8625,16 +8623,12 @@ Year,Kommune,Species,Køn,Type,Total
 2017,Køge,Krondyr,Han,Kalv,1.0
 2017,Halsnæs,Krondyr,Han,Kronhjort,4.0
 2017,Roskilde,Krondyr,Hun,Kalv,2.0
-2017,Roskilde,Krondyr,Han,Ikke angivet,4.0
-2017,Roskilde,Krondyr,Hun,Ikke angivet,3.0
 2017,Gribskov,Krondyr,Han,Kronhjort,4.0
 2017,Gribskov,Krondyr,Han,Kronhjort,4.0
 2017,Gribskov,Krondyr,Hun,Kronhind,3.0
 2017,Gribskov,Krondyr,Hun,Kronhind,1.0
 2017,Gribskov,Krondyr,Han,Kalv,3.0
 2017,Gribskov,Krondyr,Hun,Kalv,4.0
-2017,Gribskov,Krondyr,Han,Ikke angivet,4.0
-2017,Gribskov,Krondyr,Hun,Ikke angivet,4.0
 2017,Odsherred,Krondyr,Hun,Kalv,1.0
 2017,Holbæk,Krondyr,Han,Kronhjort,11.0
 2017,Holbæk,Krondyr,Han,Kronhjort,12.0
@@ -8642,8 +8636,6 @@ Year,Kommune,Species,Køn,Type,Total
 2017,Holbæk,Krondyr,Hun,Kronhind,4.0
 2017,Holbæk,Krondyr,Han,Kalv,10.0
 2017,Holbæk,Krondyr,Hun,Kalv,12.0
-2017,Holbæk,Krondyr,Han,Ikke angivet,8.0
-2017,Holbæk,Krondyr,Hun,Ikke angivet,21.0
 2017,Faxe,Krondyr,Han,Kronhjort,2.0
 2017,Faxe,Krondyr,Hun,Kronhind,1.0
 2017,Kalundborg,Krondyr,Han,Kronhjort,12.0
@@ -8652,41 +8644,25 @@ Year,Kommune,Species,Køn,Type,Total
 2017,Kalundborg,Krondyr,Hun,Kronhind,3.0
 2017,Kalundborg,Krondyr,Han,Kalv,4.0
 2017,Kalundborg,Krondyr,Hun,Kalv,9.0
-2017,Kalundborg,Krondyr,Han,Ikke angivet,14.0
-2017,Kalundborg,Krondyr,Hun,Ikke angivet,15.0
 2017,Ringsted,Krondyr,Han,Kronhjort,1.0
 2017,Ringsted,Krondyr,Hun,Kronhind,1.0
-2017,Ringsted,Krondyr,Han,Ikke angivet,2.0
-2017,Ringsted,Krondyr,Hun,Ikke angivet,2.0
 2017,Slagelse,Krondyr,Han,Kronhjort,1.0
 2017,Slagelse,Krondyr,Han,Kronhjort,1.0
 2017,Slagelse,Krondyr,Hun,Kalv,1.0
-2017,Slagelse,Krondyr,Hun,Ikke angivet,4.0
 2017,Sorø,Krondyr,Han,Kronhjort,4.0
 2017,Sorø,Krondyr,Han,Kronhjort,1.0
 2017,Sorø,Krondyr,Hun,Kronhind,2.0
 2017,Sorø,Krondyr,Hun,Kronhind,1.0
 2017,Sorø,Krondyr,Hun,Kalv,2.0
-2017,Sorø,Krondyr,Han,Ikke angivet,3.0
-2017,Sorø,Krondyr,Hun,Ikke angivet,5.0
 2017,Lejre,Krondyr,Han,Kronhjort,1.0
-2017,Lejre,Krondyr,Han,Ikke angivet,2.0
-2017,Lolland,Krondyr,Hun,Ikke angivet,1.0
 2017,Næstved,Krondyr,Han,Kronhjort,2.0
 2017,Næstved,Krondyr,Hun,Kronhind,1.0
 2017,Næstved,Krondyr,Han,Kalv,1.0
 2017,Næstved,Krondyr,Hun,Kalv,1.0
-2017,Næstved,Krondyr,Han,Ikke angivet,1.0
 2017,Middelfart,Krondyr,Hun,Kronhind,3.0
 2017,Middelfart,Krondyr,Han,Kalv,2.0
 2017,Middelfart,Krondyr,Hun,Kalv,1.0
-2017,Middelfart,Krondyr,Han,Ikke angivet,5.0
-2017,Middelfart,Krondyr,Hun,Ikke angivet,1.0
-2017,Assens,Krondyr,Han,Ikke angivet,1.0
-2017,Assens,Krondyr,Hun,Ikke angivet,2.0
 2017,Faaborg-Midtfyn,Krondyr,Han,Kronhjort,1.0
-2017,Faaborg-Midtfyn,Krondyr,Han,Ikke angivet,1.0
-2017,Faaborg-Midtfyn,Krondyr,Hun,Ikke angivet,4.0
 2017,Langeland,Krondyr,Han,Kronhjort,1.0
 2017,Langeland,Krondyr,Han,Kronhjort,1.0
 2017,Haderslev,Krondyr,Han,Kronhjort,11.0
@@ -8695,16 +8671,12 @@ Year,Kommune,Species,Køn,Type,Total
 2017,Haderslev,Krondyr,Hun,Kronhind,1.0
 2017,Haderslev,Krondyr,Han,Kalv,7.0
 2017,Haderslev,Krondyr,Hun,Kalv,6.0
-2017,Haderslev,Krondyr,Han,Ikke angivet,9.0
-2017,Haderslev,Krondyr,Hun,Ikke angivet,18.0
 2017,Billund,Krondyr,Han,Kronhjort,44.0
 2017,Billund,Krondyr,Han,Kronhjort,39.0
 2017,Billund,Krondyr,Hun,Kronhind,30.0
 2017,Billund,Krondyr,Hun,Kronhind,12.0
 2017,Billund,Krondyr,Han,Kalv,32.0
 2017,Billund,Krondyr,Hun,Kalv,41.0
-2017,Billund,Krondyr,Han,Ikke angivet,44.0
-2017,Billund,Krondyr,Hun,Ikke angivet,51.0
 2017,Sønderborg,Krondyr,Han,Kronhjort,1.0
 2017,Sønderborg,Krondyr,Hun,Kronhind,1.0
 2017,Sønderborg,Krondyr,Hun,Kalv,2.0
@@ -8714,177 +8686,130 @@ Year,Kommune,Species,Køn,Type,Total
 2017,Tønder,Krondyr,Hun,Kronhind,10.0
 2017,Tønder,Krondyr,Han,Kalv,12.0
 2017,Tønder,Krondyr,Hun,Kalv,24.0
-2017,Tønder,Krondyr,Han,Ikke angivet,16.0
-2017,Tønder,Krondyr,Hun,Ikke angivet,26.0
 2017,Esbjerg,Krondyr,Han,Kronhjort,8.0
 2017,Esbjerg,Krondyr,Han,Kronhjort,6.0
 2017,Esbjerg,Krondyr,Hun,Kronhind,9.0
 2017,Esbjerg,Krondyr,Hun,Kronhind,2.0
 2017,Esbjerg,Krondyr,Han,Kalv,6.0
 2017,Esbjerg,Krondyr,Hun,Kalv,13.0
-2017,Esbjerg,Krondyr,Han,Ikke angivet,7.0
-2017,Esbjerg,Krondyr,Hun,Ikke angivet,9.0
 2017,Fanø,Krondyr,Hun,Kalv,1.0
-2017,Fanø,Krondyr,Han,Ikke angivet,1.0
 2017,Varde,Krondyr,Han,Kronhjort,90.0
 2017,Varde,Krondyr,Han,Kronhjort,62.0
 2017,Varde,Krondyr,Hun,Kronhind,66.0
 2017,Varde,Krondyr,Hun,Kronhind,20.0
 2017,Varde,Krondyr,Han,Kalv,33.0
 2017,Varde,Krondyr,Hun,Kalv,67.0
-2017,Varde,Krondyr,Han,Ikke angivet,66.0
-2017,Varde,Krondyr,Hun,Ikke angivet,80.0
 2017,Vejen,Krondyr,Han,Kronhjort,15.0
 2017,Vejen,Krondyr,Han,Kronhjort,14.0
 2017,Vejen,Krondyr,Hun,Kronhind,11.0
 2017,Vejen,Krondyr,Hun,Kronhind,5.0
 2017,Vejen,Krondyr,Han,Kalv,15.0
 2017,Vejen,Krondyr,Hun,Kalv,21.0
-2017,Vejen,Krondyr,Han,Ikke angivet,10.0
-2017,Vejen,Krondyr,Hun,Ikke angivet,17.0
 2017,Aabenraa,Krondyr,Han,Kronhjort,14.0
 2017,Aabenraa,Krondyr,Han,Kronhjort,9.0
 2017,Aabenraa,Krondyr,Hun,Kronhind,12.0
 2017,Aabenraa,Krondyr,Hun,Kronhind,4.0
 2017,Aabenraa,Krondyr,Han,Kalv,10.0
 2017,Aabenraa,Krondyr,Hun,Kalv,17.0
-2017,Aabenraa,Krondyr,Han,Ikke angivet,8.0
-2017,Aabenraa,Krondyr,Hun,Ikke angivet,12.0
 2017,Fredericia,Krondyr,Hun,Kalv,1.0
 2017,Horsens,Krondyr,Han,Kronhjort,4.0
 2017,Horsens,Krondyr,Han,Kronhjort,4.0
 2017,Horsens,Krondyr,Han,Kalv,1.0
 2017,Horsens,Krondyr,Hun,Kalv,1.0
-2017,Horsens,Krondyr,Han,Ikke angivet,6.0
-2017,Horsens,Krondyr,Hun,Ikke angivet,5.0
 2017,Kolding,Krondyr,Han,Kronhjort,5.0
 2017,Kolding,Krondyr,Han,Kronhjort,3.0
 2017,Kolding,Krondyr,Hun,Kronhind,1.0
 2017,Kolding,Krondyr,Han,Kalv,1.0
 2017,Kolding,Krondyr,Hun,Kalv,1.0
-2017,Kolding,Krondyr,Han,Ikke angivet,5.0
-2017,Kolding,Krondyr,Hun,Ikke angivet,4.0
 2017,Vejle,Krondyr,Han,Kronhjort,21.0
 2017,Vejle,Krondyr,Han,Kronhjort,17.0
 2017,Vejle,Krondyr,Hun,Kronhind,12.0
 2017,Vejle,Krondyr,Hun,Kronhind,10.0
 2017,Vejle,Krondyr,Han,Kalv,9.0
 2017,Vejle,Krondyr,Hun,Kalv,17.0
-2017,Vejle,Krondyr,Han,Ikke angivet,20.0
-2017,Vejle,Krondyr,Hun,Ikke angivet,24.0
 2017,Herning,Krondyr,Han,Kronhjort,79.0
 2017,Herning,Krondyr,Han,Kronhjort,59.0
 2017,Herning,Krondyr,Hun,Kronhind,84.0
 2017,Herning,Krondyr,Hun,Kronhind,33.0
 2017,Herning,Krondyr,Han,Kalv,52.0
 2017,Herning,Krondyr,Hun,Kalv,76.0
-2017,Herning,Krondyr,Han,Ikke angivet,60.0
-2017,Herning,Krondyr,Hun,Ikke angivet,143.0
 2017,Holstebro,Krondyr,Han,Kronhjort,69.0
 2017,Holstebro,Krondyr,Han,Kronhjort,36.0
 2017,Holstebro,Krondyr,Hun,Kronhind,70.0
 2017,Holstebro,Krondyr,Hun,Kronhind,29.0
 2017,Holstebro,Krondyr,Han,Kalv,34.0
 2017,Holstebro,Krondyr,Hun,Kalv,62.0
-2017,Holstebro,Krondyr,Han,Ikke angivet,46.0
-2017,Holstebro,Krondyr,Hun,Ikke angivet,110.0
 2017,Lemvig,Krondyr,Han,Kronhjort,31.0
 2017,Lemvig,Krondyr,Han,Kronhjort,11.0
 2017,Lemvig,Krondyr,Hun,Kronhind,15.0
 2017,Lemvig,Krondyr,Hun,Kronhind,8.0
 2017,Lemvig,Krondyr,Han,Kalv,9.0
 2017,Lemvig,Krondyr,Hun,Kalv,14.0
-2017,Lemvig,Krondyr,Han,Ikke angivet,33.0
-2017,Lemvig,Krondyr,Hun,Ikke angivet,33.0
 2017,Struer,Krondyr,Han,Kronhjort,7.0
 2017,Struer,Krondyr,Han,Kronhjort,5.0
 2017,Struer,Krondyr,Hun,Kronhind,3.0
 2017,Struer,Krondyr,Han,Kalv,3.0
 2017,Struer,Krondyr,Hun,Kalv,2.0
-2017,Struer,Krondyr,Han,Ikke angivet,4.0
-2017,Struer,Krondyr,Hun,Ikke angivet,3.0
 2017,Syddjurs,Krondyr,Han,Kronhjort,30.0
 2017,Syddjurs,Krondyr,Han,Kronhjort,25.0
 2017,Syddjurs,Krondyr,Hun,Kronhind,33.0
 2017,Syddjurs,Krondyr,Hun,Kronhind,17.0
 2017,Syddjurs,Krondyr,Han,Kalv,16.0
 2017,Syddjurs,Krondyr,Hun,Kalv,43.0
-2017,Syddjurs,Krondyr,Han,Ikke angivet,35.0
-2017,Syddjurs,Krondyr,Hun,Ikke angivet,56.0
 2017,Norddjurs,Krondyr,Han,Kronhjort,42.0
 2017,Norddjurs,Krondyr,Han,Kronhjort,43.0
 2017,Norddjurs,Krondyr,Hun,Kronhind,58.0
 2017,Norddjurs,Krondyr,Hun,Kronhind,38.0
 2017,Norddjurs,Krondyr,Han,Kalv,37.0
 2017,Norddjurs,Krondyr,Hun,Kalv,62.0
-2017,Norddjurs,Krondyr,Han,Ikke angivet,40.0
-2017,Norddjurs,Krondyr,Hun,Ikke angivet,82.0
 2017,Favrskov,Krondyr,Han,Kronhjort,9.0
 2017,Favrskov,Krondyr,Han,Kronhjort,6.0
 2017,Favrskov,Krondyr,Hun,Kronhind,3.0
 2017,Favrskov,Krondyr,Hun,Kronhind,1.0
 2017,Favrskov,Krondyr,Han,Kalv,1.0
 2017,Favrskov,Krondyr,Hun,Kalv,3.0
-2017,Favrskov,Krondyr,Han,Ikke angivet,8.0
-2017,Favrskov,Krondyr,Hun,Ikke angivet,1.0
 2017,Odder,Krondyr,Han,Kronhjort,2.0
 2017,Odder,Krondyr,Han,Kronhjort,2.0
 2017,Odder,Krondyr,Hun,Kronhind,1.0
 2017,Odder,Krondyr,Hun,Kronhind,2.0
 2017,Odder,Krondyr,Hun,Kalv,2.0
-2017,Odder,Krondyr,Han,Ikke angivet,2.0
-2017,Odder,Krondyr,Hun,Ikke angivet,3.0
 2017,Randers,Krondyr,Han,Kronhjort,5.0
 2017,Randers,Krondyr,Han,Kronhjort,1.0
 2017,Randers,Krondyr,Hun,Kronhind,2.0
 2017,Randers,Krondyr,Hun,Kronhind,1.0
 2017,Randers,Krondyr,Han,Kalv,1.0
 2017,Randers,Krondyr,Hun,Kalv,3.0
-2017,Randers,Krondyr,Han,Ikke angivet,5.0
-2017,Randers,Krondyr,Hun,Ikke angivet,1.0
 2017,Silkeborg,Krondyr,Han,Kronhjort,28.0
 2017,Silkeborg,Krondyr,Han,Kronhjort,16.0
 2017,Silkeborg,Krondyr,Hun,Kronhind,39.0
 2017,Silkeborg,Krondyr,Hun,Kronhind,13.0
 2017,Silkeborg,Krondyr,Han,Kalv,16.0
 2017,Silkeborg,Krondyr,Hun,Kalv,26.0
-2017,Silkeborg,Krondyr,Han,Ikke angivet,17.0
-2017,Silkeborg,Krondyr,Hun,Ikke angivet,41.0
 2017,Skanderborg,Krondyr,Han,Kronhjort,2.0
 2017,Skanderborg,Krondyr,Han,Kronhjort,2.0
 2017,Skanderborg,Krondyr,Hun,Kronhind,1.0
 2017,Skanderborg,Krondyr,Hun,Kalv,3.0
-2017,Skanderborg,Krondyr,Han,Ikke angivet,2.0
-2017,Skanderborg,Krondyr,Hun,Ikke angivet,4.0
 2017,Aarhus,Krondyr,Han,Kronhjort,2.0
 2017,Aarhus,Krondyr,Han,Kronhjort,1.0
 2017,Aarhus,Krondyr,Hun,Kronhind,3.0
 2017,Aarhus,Krondyr,Han,Kalv,1.0
-2017,Aarhus,Krondyr,Han,Ikke angivet,2.0
-2017,Aarhus,Krondyr,Hun,Ikke angivet,4.0
 2017,Ikast-Brande,Krondyr,Han,Kronhjort,53.0
 2017,Ikast-Brande,Krondyr,Han,Kronhjort,42.0
 2017,Ikast-Brande,Krondyr,Hun,Kronhind,91.0
 2017,Ikast-Brande,Krondyr,Hun,Kronhind,34.0
 2017,Ikast-Brande,Krondyr,Han,Kalv,58.0
 2017,Ikast-Brande,Krondyr,Hun,Kalv,66.0
-2017,Ikast-Brande,Krondyr,Han,Ikke angivet,45.0
-2017,Ikast-Brande,Krondyr,Hun,Ikke angivet,103.0
 2017,Ringkøbing-Skjern,Krondyr,Han,Kronhjort,92.0
 2017,Ringkøbing-Skjern,Krondyr,Han,Kronhjort,63.0
 2017,Ringkøbing-Skjern,Krondyr,Hun,Kronhind,58.0
 2017,Ringkøbing-Skjern,Krondyr,Hun,Kronhind,33.0
 2017,Ringkøbing-Skjern,Krondyr,Han,Kalv,38.0
 2017,Ringkøbing-Skjern,Krondyr,Hun,Kalv,62.0
-2017,Ringkøbing-Skjern,Krondyr,Han,Ikke angivet,73.0
-2017,Ringkøbing-Skjern,Krondyr,Hun,Ikke angivet,113.0
 2017,Hedensted,Krondyr,Han,Kronhjort,4.0
 2017,Hedensted,Krondyr,Han,Kronhjort,1.0
 2017,Hedensted,Krondyr,Hun,Kronhind,2.0
 2017,Hedensted,Krondyr,Han,Kalv,1.0
 2017,Hedensted,Krondyr,Hun,Kalv,1.0
-2017,Hedensted,Krondyr,Han,Ikke angivet,1.0
-2017,Hedensted,Krondyr,Hun,Ikke angivet,1.0
 2017,Morsø,Krondyr,Han,Kronhjort,2.0
 2017,Morsø,Krondyr,Hun,Kronhind,1.0
 2017,Morsø,Krondyr,Han,Kalv,1.0
@@ -8892,118 +8817,83 @@ Year,Kommune,Species,Køn,Type,Total
 2017,Skive,Krondyr,Hun,Kronhind,2.0
 2017,Skive,Krondyr,Han,Kalv,1.0
 2017,Skive,Krondyr,Hun,Kalv,2.0
-2017,Skive,Krondyr,Han,Ikke angivet,4.0
-2017,Skive,Krondyr,Hun,Ikke angivet,4.0
 2017,Thisted,Krondyr,Han,Kronhjort,25.0
 2017,Thisted,Krondyr,Han,Kronhjort,27.0
 2017,Thisted,Krondyr,Hun,Kronhind,36.0
 2017,Thisted,Krondyr,Hun,Kronhind,21.0
 2017,Thisted,Krondyr,Han,Kalv,21.0
 2017,Thisted,Krondyr,Hun,Kalv,38.0
-2017,Thisted,Krondyr,Han,Ikke angivet,38.0
-2017,Thisted,Krondyr,Hun,Ikke angivet,67.0
 2017,Viborg,Krondyr,Han,Kronhjort,28.0
 2017,Viborg,Krondyr,Han,Kronhjort,23.0
 2017,Viborg,Krondyr,Hun,Kronhind,30.0
 2017,Viborg,Krondyr,Hun,Kronhind,9.0
 2017,Viborg,Krondyr,Han,Kalv,18.0
 2017,Viborg,Krondyr,Hun,Kalv,37.0
-2017,Viborg,Krondyr,Han,Ikke angivet,22.0
-2017,Viborg,Krondyr,Hun,Ikke angivet,49.0
 2017,Brønderslev-Dronninglund,Krondyr,Han,Kronhjort,8.0
 2017,Brønderslev-Dronninglund,Krondyr,Han,Kronhjort,3.0
 2017,Brønderslev-Dronninglund,Krondyr,Hun,Kronhind,7.0
 2017,Brønderslev-Dronninglund,Krondyr,Hun,Kalv,1.0
-2017,Brønderslev-Dronninglund,Krondyr,Han,Ikke angivet,4.0
-2017,Brønderslev-Dronninglund,Krondyr,Hun,Ikke angivet,4.0
 2017,Frederikshavn,Krondyr,Han,Kronhjort,8.0
 2017,Frederikshavn,Krondyr,Han,Kronhjort,6.0
 2017,Frederikshavn,Krondyr,Hun,Kronhind,17.0
 2017,Frederikshavn,Krondyr,Hun,Kronhind,7.0
 2017,Frederikshavn,Krondyr,Han,Kalv,10.0
 2017,Frederikshavn,Krondyr,Hun,Kalv,13.0
-2017,Frederikshavn,Krondyr,Han,Ikke angivet,15.0
-2017,Frederikshavn,Krondyr,Hun,Ikke angivet,14.0
 2017,Vesthimmerland,Krondyr,Han,Kronhjort,5.0
 2017,Vesthimmerland,Krondyr,Han,Kronhjort,4.0
 2017,Vesthimmerland,Krondyr,Hun,Kronhind,2.0
 2017,Vesthimmerland,Krondyr,Han,Kalv,2.0
 2017,Vesthimmerland,Krondyr,Hun,Kalv,4.0
-2017,Vesthimmerland,Krondyr,Han,Ikke angivet,2.0
-2017,Vesthimmerland,Krondyr,Hun,Ikke angivet,1.0
-2017,Læsø,Krondyr,Hun,Ikke angivet,1.0
 2017,Rebild,Krondyr,Han,Kronhjort,9.0
 2017,Rebild,Krondyr,Han,Kronhjort,11.0
 2017,Rebild,Krondyr,Hun,Kronhind,16.0
 2017,Rebild,Krondyr,Hun,Kronhind,3.0
 2017,Rebild,Krondyr,Han,Kalv,11.0
 2017,Rebild,Krondyr,Hun,Kalv,15.0
-2017,Rebild,Krondyr,Han,Ikke angivet,5.0
-2017,Rebild,Krondyr,Hun,Ikke angivet,26.0
 2017,Mariagerfjord,Krondyr,Han,Kronhjort,11.0
 2017,Mariagerfjord,Krondyr,Han,Kronhjort,6.0
 2017,Mariagerfjord,Krondyr,Hun,Kronhind,8.0
 2017,Mariagerfjord,Krondyr,Hun,Kronhind,1.0
 2017,Mariagerfjord,Krondyr,Han,Kalv,3.0
 2017,Mariagerfjord,Krondyr,Hun,Kalv,8.0
-2017,Mariagerfjord,Krondyr,Han,Ikke angivet,12.0
-2017,Mariagerfjord,Krondyr,Hun,Ikke angivet,4.0
 2017,Jammerbugt,Krondyr,Han,Kronhjort,19.0
 2017,Jammerbugt,Krondyr,Han,Kronhjort,24.0
 2017,Jammerbugt,Krondyr,Hun,Kronhind,35.0
 2017,Jammerbugt,Krondyr,Hun,Kronhind,19.0
 2017,Jammerbugt,Krondyr,Han,Kalv,25.0
 2017,Jammerbugt,Krondyr,Hun,Kalv,38.0
-2017,Jammerbugt,Krondyr,Han,Ikke angivet,18.0
-2017,Jammerbugt,Krondyr,Hun,Ikke angivet,37.0
 2017,Aalborg,Krondyr,Han,Kronhjort,4.0
 2017,Aalborg,Krondyr,Han,Kronhjort,5.0
 2017,Aalborg,Krondyr,Hun,Kronhind,4.0
 2017,Aalborg,Krondyr,Hun,Kronhind,1.0
 2017,Aalborg,Krondyr,Han,Kalv,1.0
 2017,Aalborg,Krondyr,Hun,Kalv,4.0
-2017,Aalborg,Krondyr,Han,Ikke angivet,6.0
-2017,Aalborg,Krondyr,Hun,Ikke angivet,4.0
 2017,Hjørring,Krondyr,Han,Kronhjort,6.0
 2017,Hjørring,Krondyr,Han,Kronhjort,3.0
 2017,Hjørring,Krondyr,Hun,Kronhind,2.0
 2017,Hjørring,Krondyr,Han,Kalv,6.0
 2017,Hjørring,Krondyr,Hun,Kalv,2.0
-2017,Hjørring,Krondyr,Han,Ikke angivet,6.0
-2017,Hjørring,Krondyr,Hun,Ikke angivet,8.0
-2018,Lyngby-Taarbæk,Krondyr,Hun,Ikke angivet,5.0
 2018,Helsingør,Krondyr,Hun,Kronhind,1.0
 2018,Helsingør,Krondyr,Han,Kalv,1.0
 2018,Helsingør,Krondyr,Hun,Kalv,1.0
-2018,Helsingør,Krondyr,Han,Ikke angivet,1.0
 2018,Hillerød,Krondyr,Han,Kronhjort,1.0
 2018,Hillerød,Krondyr,Han,Kronhjort,2.0
 2018,Hillerød,Krondyr,Hun,Kronhind,1.0
 2018,Hillerød,Krondyr,Hun,Kalv,2.0
-2018,Hillerød,Krondyr,Han,Ikke angivet,2.0
-2018,Hørsholm,Krondyr,Hun,Ikke angivet,1.0
 2018,Rudersdal,Krondyr,Hun,Kronhind,1.0
 2018,Rudersdal,Krondyr,Hun,Kalv,1.0
-2018,Greve,Krondyr,Han,Ikke angivet,1.0
 2018,Halsnæs,Krondyr,Han,Kronhjort,1.0
-2018,Halsnæs,Krondyr,Han,Ikke angivet,2.0
-2018,Halsnæs,Krondyr,Hun,Ikke angivet,1.0
 2018,Gribskov,Krondyr,Han,Kronhjort,4.0
 2018,Gribskov,Krondyr,Han,Kronhjort,3.0
 2018,Gribskov,Krondyr,Hun,Kronhind,3.0
 2018,Gribskov,Krondyr,Han,Kalv,5.0
 2018,Gribskov,Krondyr,Hun,Kalv,3.0
-2018,Gribskov,Krondyr,Han,Ikke angivet,9.0
-2018,Gribskov,Krondyr,Hun,Ikke angivet,5.0
-2018,Odsherred,Krondyr,Hun,Ikke angivet,1.0
 2018,Holbæk,Krondyr,Han,Kronhjort,9.0
 2018,Holbæk,Krondyr,Han,Kronhjort,6.0
 2018,Holbæk,Krondyr,Hun,Kronhind,12.0
 2018,Holbæk,Krondyr,Hun,Kronhind,6.0
 2018,Holbæk,Krondyr,Han,Kalv,8.0
 2018,Holbæk,Krondyr,Hun,Kalv,12.0
-2018,Holbæk,Krondyr,Han,Ikke angivet,8.0
-2018,Holbæk,Krondyr,Hun,Ikke angivet,17.0
 2018,Faxe,Krondyr,Hun,Kalv,1.0
 2018,Kalundborg,Krondyr,Han,Kronhjort,13.0
 2018,Kalundborg,Krondyr,Han,Kronhjort,8.0
@@ -9011,78 +8901,56 @@ Year,Kommune,Species,Køn,Type,Total
 2018,Kalundborg,Krondyr,Hun,Kronhind,3.0
 2018,Kalundborg,Krondyr,Han,Kalv,3.0
 2018,Kalundborg,Krondyr,Hun,Kalv,7.0
-2018,Kalundborg,Krondyr,Han,Ikke angivet,17.0
-2018,Kalundborg,Krondyr,Hun,Ikke angivet,25.0
 2018,Ringsted,Krondyr,Han,Kronhjort,3.0
 2018,Ringsted,Krondyr,Han,Kronhjort,2.0
 2018,Ringsted,Krondyr,Hun,Kronhind,1.0
 2018,Ringsted,Krondyr,Han,Kalv,2.0
-2018,Ringsted,Krondyr,Hun,Ikke angivet,2.0
 2018,Slagelse,Krondyr,Han,Kronhjort,2.0
 2018,Slagelse,Krondyr,Hun,Kronhind,9.0
-2018,Stevns,Krondyr,Han,Ikke angivet,1.0
 2018,Sorø,Krondyr,Han,Kronhjort,6.0
 2018,Sorø,Krondyr,Han,Kronhjort,1.0
 2018,Sorø,Krondyr,Hun,Kronhind,3.0
-2018,Sorø,Krondyr,Han,Ikke angivet,6.0
-2018,Sorø,Krondyr,Hun,Ikke angivet,1.0
 2018,Lejre,Krondyr,Han,Kronhjort,2.0
 2018,Lejre,Krondyr,Hun,Kronhind,1.0
 2018,Lejre,Krondyr,Hun,Kronhind,1.0
 2018,Lejre,Krondyr,Hun,Kalv,1.0
-2018,Lejre,Krondyr,Hun,Ikke angivet,2.0
 2018,Næstved,Krondyr,Hun,Kronhind,5.0
 2018,Næstved,Krondyr,Hun,Kronhind,2.0
 2018,Næstved,Krondyr,Hun,Kalv,2.0
-2018,Næstved,Krondyr,Han,Ikke angivet,2.0
-2018,Næstved,Krondyr,Hun,Ikke angivet,10.0
-2018,Guldborgsund,Krondyr,Han,Ikke angivet,1.0
 2018,Vordingborg,Krondyr,Han,Kronhjort,1.0
-2018,Vordingborg,Krondyr,Hun,Ikke angivet,1.0
 2018,Bornholm,Krondyr,Han,Kronhjort,1.0
 2018,Middelfart,Krondyr,Han,Kronhjort,2.0
 2018,Middelfart,Krondyr,Han,Kronhjort,2.0
 2018,Middelfart,Krondyr,Hun,Kronhind,3.0
 2018,Middelfart,Krondyr,Han,Kalv,4.0
 2018,Middelfart,Krondyr,Hun,Kalv,1.0
-2018,Assens,Krondyr,Hun,Ikke angivet,4.0
 2018,Faaborg-Midtfyn,Krondyr,Han,Kalv,1.0
-2018,Odense,Krondyr,Hun,Ikke angivet,2.0
 2018,Haderslev,Krondyr,Han,Kronhjort,17.0
 2018,Haderslev,Krondyr,Han,Kronhjort,6.0
 2018,Haderslev,Krondyr,Hun,Kronhind,7.0
 2018,Haderslev,Krondyr,Hun,Kronhind,5.0
 2018,Haderslev,Krondyr,Han,Kalv,7.0
 2018,Haderslev,Krondyr,Hun,Kalv,12.0
-2018,Haderslev,Krondyr,Han,Ikke angivet,15.0
-2018,Haderslev,Krondyr,Hun,Ikke angivet,22.0
 2018,Billund,Krondyr,Han,Kronhjort,57.0
 2018,Billund,Krondyr,Han,Kronhjort,24.0
 2018,Billund,Krondyr,Hun,Kronhind,52.0
 2018,Billund,Krondyr,Hun,Kronhind,39.0
 2018,Billund,Krondyr,Han,Kalv,26.0
 2018,Billund,Krondyr,Hun,Kalv,63.0
-2018,Billund,Krondyr,Han,Ikke angivet,46.0
-2018,Billund,Krondyr,Hun,Ikke angivet,72.0
 2018,Sønderborg,Krondyr,Hun,Kronhind,2.0
 2018,Sønderborg,Krondyr,Hun,Kronhind,2.0
-2018,Sønderborg,Krondyr,Hun,Ikke angivet,2.0
 2018,Tønder,Krondyr,Han,Kronhjort,25.0
 2018,Tønder,Krondyr,Han,Kronhjort,20.0
 2018,Tønder,Krondyr,Hun,Kronhind,22.0
 2018,Tønder,Krondyr,Hun,Kronhind,17.0
 2018,Tønder,Krondyr,Han,Kalv,16.0
 2018,Tønder,Krondyr,Hun,Kalv,24.0
-2018,Tønder,Krondyr,Han,Ikke angivet,15.0
-2018,Tønder,Krondyr,Hun,Ikke angivet,21.0
 2018,Esbjerg,Krondyr,Han,Kronhjort,12.0
 2018,Esbjerg,Krondyr,Han,Kronhjort,14.0
 2018,Esbjerg,Krondyr,Hun,Kronhind,9.0
 2018,Esbjerg,Krondyr,Hun,Kronhind,4.0
 2018,Esbjerg,Krondyr,Han,Kalv,3.0
 2018,Esbjerg,Krondyr,Hun,Kalv,11.0
-2018,Esbjerg,Krondyr,Han,Ikke angivet,9.0
-2018,Esbjerg,Krondyr,Hun,Ikke angivet,9.0
 2018,Fanø,Krondyr,Han,Kronhjort,1.0
 2018,Varde,Krondyr,Han,Kronhjort,80.0
 2018,Varde,Krondyr,Han,Kronhjort,49.0
@@ -9090,238 +8958,176 @@ Year,Kommune,Species,Køn,Type,Total
 2018,Varde,Krondyr,Hun,Kronhind,37.0
 2018,Varde,Krondyr,Han,Kalv,63.0
 2018,Varde,Krondyr,Hun,Kalv,96.0
-2018,Varde,Krondyr,Han,Ikke angivet,75.0
-2018,Varde,Krondyr,Hun,Ikke angivet,131.0
 2018,Vejen,Krondyr,Han,Kronhjort,44.0
 2018,Vejen,Krondyr,Han,Kronhjort,8.0
 2018,Vejen,Krondyr,Hun,Kronhind,20.0
 2018,Vejen,Krondyr,Hun,Kronhind,12.0
 2018,Vejen,Krondyr,Han,Kalv,20.0
 2018,Vejen,Krondyr,Hun,Kalv,20.0
-2018,Vejen,Krondyr,Han,Ikke angivet,23.0
-2018,Vejen,Krondyr,Hun,Ikke angivet,29.0
 2018,Aabenraa,Krondyr,Han,Kronhjort,14.0
 2018,Aabenraa,Krondyr,Han,Kronhjort,14.0
 2018,Aabenraa,Krondyr,Hun,Kronhind,18.0
 2018,Aabenraa,Krondyr,Hun,Kronhind,5.0
 2018,Aabenraa,Krondyr,Han,Kalv,10.0
 2018,Aabenraa,Krondyr,Hun,Kalv,13.0
-2018,Aabenraa,Krondyr,Han,Ikke angivet,19.0
-2018,Aabenraa,Krondyr,Hun,Ikke angivet,25.0
 2018,Horsens,Krondyr,Han,Kronhjort,6.0
 2018,Horsens,Krondyr,Han,Kronhjort,4.0
 2018,Horsens,Krondyr,Hun,Kronhind,2.0
 2018,Horsens,Krondyr,Han,Kalv,2.0
 2018,Horsens,Krondyr,Hun,Kalv,1.0
-2018,Horsens,Krondyr,Han,Ikke angivet,7.0
-2018,Horsens,Krondyr,Hun,Ikke angivet,8.0
 2018,Kolding,Krondyr,Han,Kronhjort,3.0
 2018,Kolding,Krondyr,Hun,Kronhind,1.0
 2018,Kolding,Krondyr,Hun,Kalv,1.0
-2018,Kolding,Krondyr,Han,Ikke angivet,4.0
-2018,Kolding,Krondyr,Hun,Ikke angivet,4.0
 2018,Vejle,Krondyr,Han,Kronhjort,23.0
 2018,Vejle,Krondyr,Han,Kronhjort,19.0
 2018,Vejle,Krondyr,Hun,Kronhind,21.0
 2018,Vejle,Krondyr,Hun,Kronhind,9.0
 2018,Vejle,Krondyr,Han,Kalv,13.0
 2018,Vejle,Krondyr,Hun,Kalv,26.0
-2018,Vejle,Krondyr,Han,Ikke angivet,28.0
-2018,Vejle,Krondyr,Hun,Ikke angivet,27.0
 2018,Herning,Krondyr,Han,Kronhjort,76.0
 2018,Herning,Krondyr,Han,Kronhjort,62.0
 2018,Herning,Krondyr,Hun,Kronhind,111.0
 2018,Herning,Krondyr,Hun,Kronhind,45.0
 2018,Herning,Krondyr,Han,Kalv,56.0
 2018,Herning,Krondyr,Hun,Kalv,101.0
-2018,Herning,Krondyr,Han,Ikke angivet,75.0
-2018,Herning,Krondyr,Hun,Ikke angivet,120.0
 2018,Holstebro,Krondyr,Han,Kronhjort,50.0
 2018,Holstebro,Krondyr,Han,Kronhjort,38.0
 2018,Holstebro,Krondyr,Hun,Kronhind,61.0
 2018,Holstebro,Krondyr,Hun,Kronhind,27.0
 2018,Holstebro,Krondyr,Han,Kalv,38.0
 2018,Holstebro,Krondyr,Hun,Kalv,59.0
-2018,Holstebro,Krondyr,Han,Ikke angivet,34.0
-2018,Holstebro,Krondyr,Hun,Ikke angivet,89.0
 2018,Lemvig,Krondyr,Han,Kronhjort,26.0
 2018,Lemvig,Krondyr,Han,Kronhjort,17.0
 2018,Lemvig,Krondyr,Hun,Kronhind,17.0
 2018,Lemvig,Krondyr,Hun,Kronhind,9.0
 2018,Lemvig,Krondyr,Han,Kalv,12.0
 2018,Lemvig,Krondyr,Hun,Kalv,23.0
-2018,Lemvig,Krondyr,Han,Ikke angivet,38.0
-2018,Lemvig,Krondyr,Hun,Ikke angivet,36.0
 2018,Struer,Krondyr,Han,Kronhjort,3.0
 2018,Struer,Krondyr,Han,Kronhjort,4.0
 2018,Struer,Krondyr,Hun,Kronhind,2.0
 2018,Struer,Krondyr,Hun,Kronhind,2.0
 2018,Struer,Krondyr,Han,Kalv,2.0
 2018,Struer,Krondyr,Hun,Kalv,10.0
-2018,Struer,Krondyr,Han,Ikke angivet,2.0
-2018,Struer,Krondyr,Hun,Ikke angivet,7.0
 2018,Syddjurs,Krondyr,Han,Kronhjort,32.0
 2018,Syddjurs,Krondyr,Han,Kronhjort,19.0
 2018,Syddjurs,Krondyr,Hun,Kronhind,46.0
 2018,Syddjurs,Krondyr,Hun,Kronhind,10.0
 2018,Syddjurs,Krondyr,Han,Kalv,16.0
 2018,Syddjurs,Krondyr,Hun,Kalv,33.0
-2018,Syddjurs,Krondyr,Han,Ikke angivet,29.0
-2018,Syddjurs,Krondyr,Hun,Ikke angivet,67.0
 2018,Norddjurs,Krondyr,Han,Kronhjort,51.0
 2018,Norddjurs,Krondyr,Han,Kronhjort,58.0
 2018,Norddjurs,Krondyr,Hun,Kronhind,70.0
 2018,Norddjurs,Krondyr,Hun,Kronhind,25.0
 2018,Norddjurs,Krondyr,Han,Kalv,56.0
 2018,Norddjurs,Krondyr,Hun,Kalv,89.0
-2018,Norddjurs,Krondyr,Han,Ikke angivet,33.0
-2018,Norddjurs,Krondyr,Hun,Ikke angivet,77.0
 2018,Favrskov,Krondyr,Han,Kronhjort,11.0
 2018,Favrskov,Krondyr,Han,Kronhjort,13.0
 2018,Favrskov,Krondyr,Hun,Kronhind,1.0
 2018,Favrskov,Krondyr,Hun,Kronhind,3.0
 2018,Favrskov,Krondyr,Han,Kalv,2.0
 2018,Favrskov,Krondyr,Hun,Kalv,7.0
-2018,Favrskov,Krondyr,Han,Ikke angivet,6.0
-2018,Favrskov,Krondyr,Hun,Ikke angivet,7.0
 2018,Odder,Krondyr,Han,Kronhjort,2.0
 2018,Odder,Krondyr,Han,Kronhjort,3.0
 2018,Odder,Krondyr,Hun,Kronhind,1.0
 2018,Odder,Krondyr,Han,Kalv,1.0
 2018,Odder,Krondyr,Hun,Kalv,2.0
-2018,Odder,Krondyr,Han,Ikke angivet,4.0
-2018,Odder,Krondyr,Hun,Ikke angivet,4.0
 2018,Randers,Krondyr,Han,Kronhjort,5.0
 2018,Randers,Krondyr,Han,Kronhjort,2.0
 2018,Randers,Krondyr,Hun,Kronhind,4.0
 2018,Randers,Krondyr,Hun,Kronhind,1.0
 2018,Randers,Krondyr,Hun,Kalv,7.0
-2018,Randers,Krondyr,Han,Ikke angivet,2.0
-2018,Randers,Krondyr,Hun,Ikke angivet,3.0
 2018,Silkeborg,Krondyr,Han,Kronhjort,26.0
 2018,Silkeborg,Krondyr,Han,Kronhjort,25.0
 2018,Silkeborg,Krondyr,Hun,Kronhind,43.0
 2018,Silkeborg,Krondyr,Hun,Kronhind,14.0
 2018,Silkeborg,Krondyr,Han,Kalv,25.0
 2018,Silkeborg,Krondyr,Hun,Kalv,42.0
-2018,Silkeborg,Krondyr,Han,Ikke angivet,31.0
-2018,Silkeborg,Krondyr,Hun,Ikke angivet,62.0
 2018,Skanderborg,Krondyr,Han,Kronhjort,8.0
 2018,Skanderborg,Krondyr,Han,Kronhjort,2.0
 2018,Skanderborg,Krondyr,Hun,Kronhind,4.0
 2018,Skanderborg,Krondyr,Hun,Kalv,3.0
-2018,Skanderborg,Krondyr,Han,Ikke angivet,3.0
-2018,Skanderborg,Krondyr,Hun,Ikke angivet,1.0
 2018,Aarhus,Krondyr,Han,Kronhjort,6.0
 2018,Aarhus,Krondyr,Hun,Kronhind,2.0
 2018,Aarhus,Krondyr,Han,Kalv,2.0
 2018,Aarhus,Krondyr,Hun,Kalv,2.0
-2018,Aarhus,Krondyr,Han,Ikke angivet,1.0
-2018,Aarhus,Krondyr,Hun,Ikke angivet,10.0
 2018,Ikast-Brande,Krondyr,Han,Kronhjort,63.0
 2018,Ikast-Brande,Krondyr,Han,Kronhjort,48.0
 2018,Ikast-Brande,Krondyr,Hun,Kronhind,81.0
 2018,Ikast-Brande,Krondyr,Hun,Kronhind,20.0
 2018,Ikast-Brande,Krondyr,Han,Kalv,41.0
 2018,Ikast-Brande,Krondyr,Hun,Kalv,81.0
-2018,Ikast-Brande,Krondyr,Han,Ikke angivet,54.0
-2018,Ikast-Brande,Krondyr,Hun,Ikke angivet,130.0
 2018,Ringkøbing-Skjern,Krondyr,Han,Kronhjort,91.0
 2018,Ringkøbing-Skjern,Krondyr,Han,Kronhjort,67.0
 2018,Ringkøbing-Skjern,Krondyr,Hun,Kronhind,65.0
 2018,Ringkøbing-Skjern,Krondyr,Hun,Kronhind,38.0
 2018,Ringkøbing-Skjern,Krondyr,Han,Kalv,31.0
 2018,Ringkøbing-Skjern,Krondyr,Hun,Kalv,76.0
-2018,Ringkøbing-Skjern,Krondyr,Han,Ikke angivet,80.0
-2018,Ringkøbing-Skjern,Krondyr,Hun,Ikke angivet,103.0
 2018,Hedensted,Krondyr,Han,Kronhjort,5.0
 2018,Hedensted,Krondyr,Hun,Kronhind,4.0
 2018,Hedensted,Krondyr,Hun,Kronhind,6.0
 2018,Hedensted,Krondyr,Hun,Kalv,2.0
-2018,Hedensted,Krondyr,Hun,Ikke angivet,6.0
 2018,Skive,Krondyr,Han,Kronhjort,3.0
 2018,Skive,Krondyr,Han,Kronhjort,2.0
 2018,Skive,Krondyr,Hun,Kalv,2.0
-2018,Skive,Krondyr,Hun,Ikke angivet,2.0
 2018,Thisted,Krondyr,Han,Kronhjort,44.0
 2018,Thisted,Krondyr,Han,Kronhjort,38.0
 2018,Thisted,Krondyr,Hun,Kronhind,47.0
 2018,Thisted,Krondyr,Hun,Kronhind,40.0
 2018,Thisted,Krondyr,Han,Kalv,30.0
 2018,Thisted,Krondyr,Hun,Kalv,55.0
-2018,Thisted,Krondyr,Han,Ikke angivet,39.0
-2018,Thisted,Krondyr,Hun,Ikke angivet,112.0
 2018,Viborg,Krondyr,Han,Kronhjort,34.0
 2018,Viborg,Krondyr,Han,Kronhjort,22.0
 2018,Viborg,Krondyr,Hun,Kronhind,32.0
 2018,Viborg,Krondyr,Hun,Kronhind,11.0
 2018,Viborg,Krondyr,Han,Kalv,20.0
 2018,Viborg,Krondyr,Hun,Kalv,40.0
-2018,Viborg,Krondyr,Han,Ikke angivet,25.0
-2018,Viborg,Krondyr,Hun,Ikke angivet,55.0
 2018,Brønderslev-Dronninglund,Krondyr,Han,Kronhjort,8.0
 2018,Brønderslev-Dronninglund,Krondyr,Han,Kronhjort,4.0
 2018,Brønderslev-Dronninglund,Krondyr,Hun,Kronhind,3.0
 2018,Brønderslev-Dronninglund,Krondyr,Hun,Kronhind,1.0
 2018,Brønderslev-Dronninglund,Krondyr,Han,Kalv,2.0
 2018,Brønderslev-Dronninglund,Krondyr,Hun,Kalv,1.0
-2018,Brønderslev-Dronninglund,Krondyr,Han,Ikke angivet,5.0
-2018,Brønderslev-Dronninglund,Krondyr,Hun,Ikke angivet,6.0
 2018,Frederikshavn,Krondyr,Han,Kronhjort,15.0
 2018,Frederikshavn,Krondyr,Han,Kronhjort,11.0
 2018,Frederikshavn,Krondyr,Hun,Kronhind,21.0
 2018,Frederikshavn,Krondyr,Hun,Kronhind,3.0
 2018,Frederikshavn,Krondyr,Han,Kalv,7.0
 2018,Frederikshavn,Krondyr,Hun,Kalv,18.0
-2018,Frederikshavn,Krondyr,Han,Ikke angivet,16.0
-2018,Frederikshavn,Krondyr,Hun,Ikke angivet,37.0
 2018,Vesthimmerland,Krondyr,Han,Kronhjort,12.0
 2018,Vesthimmerland,Krondyr,Han,Kronhjort,3.0
 2018,Vesthimmerland,Krondyr,Hun,Kronhind,5.0
 2018,Vesthimmerland,Krondyr,Hun,Kronhind,2.0
 2018,Vesthimmerland,Krondyr,Han,Kalv,3.0
 2018,Vesthimmerland,Krondyr,Hun,Kalv,6.0
-2018,Vesthimmerland,Krondyr,Han,Ikke angivet,6.0
-2018,Vesthimmerland,Krondyr,Hun,Ikke angivet,5.0
 2018,Rebild,Krondyr,Han,Kronhjort,14.0
 2018,Rebild,Krondyr,Han,Kronhjort,4.0
 2018,Rebild,Krondyr,Hun,Kronhind,10.0
 2018,Rebild,Krondyr,Hun,Kronhind,3.0
 2018,Rebild,Krondyr,Han,Kalv,4.0
 2018,Rebild,Krondyr,Hun,Kalv,7.0
-2018,Rebild,Krondyr,Han,Ikke angivet,13.0
-2018,Rebild,Krondyr,Hun,Ikke angivet,14.0
 2018,Mariagerfjord,Krondyr,Han,Kronhjort,5.0
 2018,Mariagerfjord,Krondyr,Han,Kronhjort,2.0
 2018,Mariagerfjord,Krondyr,Hun,Kronhind,2.0
 2018,Mariagerfjord,Krondyr,Hun,Kronhind,1.0
 2018,Mariagerfjord,Krondyr,Han,Kalv,3.0
 2018,Mariagerfjord,Krondyr,Hun,Kalv,6.0
-2018,Mariagerfjord,Krondyr,Han,Ikke angivet,11.0
-2018,Mariagerfjord,Krondyr,Hun,Ikke angivet,11.0
 2018,Jammerbugt,Krondyr,Han,Kronhjort,31.0
 2018,Jammerbugt,Krondyr,Han,Kronhjort,20.0
 2018,Jammerbugt,Krondyr,Hun,Kronhind,35.0
 2018,Jammerbugt,Krondyr,Hun,Kronhind,8.0
 2018,Jammerbugt,Krondyr,Han,Kalv,25.0
 2018,Jammerbugt,Krondyr,Hun,Kalv,24.0
-2018,Jammerbugt,Krondyr,Han,Ikke angivet,21.0
-2018,Jammerbugt,Krondyr,Hun,Ikke angivet,58.0
 2018,Aalborg,Krondyr,Han,Kronhjort,4.0
 2018,Aalborg,Krondyr,Hun,Kronhind,8.0
 2018,Aalborg,Krondyr,Hun,Kronhind,4.0
 2018,Aalborg,Krondyr,Han,Kalv,7.0
 2018,Aalborg,Krondyr,Hun,Kalv,5.0
-2018,Aalborg,Krondyr,Han,Ikke angivet,3.0
-2018,Aalborg,Krondyr,Hun,Ikke angivet,6.0
 2018,Hjørring,Krondyr,Han,Kronhjort,8.0
 2018,Hjørring,Krondyr,Han,Kronhjort,5.0
 2018,Hjørring,Krondyr,Hun,Kronhind,3.0
 2018,Hjørring,Krondyr,Hun,Kronhind,1.0
 2018,Hjørring,Krondyr,Han,Kalv,5.0
 2018,Hjørring,Krondyr,Hun,Kalv,5.0
-2018,Hjørring,Krondyr,Han,Ikke angivet,9.0
-2018,Hjørring,Krondyr,Hun,Ikke angivet,9.0
 2019,Lyngby-Taarbæk,Krondyr,Han,Kronhjort,3.0
 2019,Lyngby-Taarbæk,Krondyr,Han,Kronhjort,1.0
 2019,Fredensborg,Krondyr,Hun,Kronhind,1.0
@@ -9329,72 +9135,51 @@ Year,Kommune,Species,Køn,Type,Total
 2019,Hillerød,Krondyr,Han,Kronhjort,1.0
 2019,Hillerød,Krondyr,Han,Kronhjort,2.0
 2019,Hillerød,Krondyr,Han,Kalv,2.0
-2019,Hillerød,Krondyr,Han,Ikke angivet,1.0
-2019,Rudersdal,Krondyr,Hun,Ikke angivet,1.0
 2019,Greve,Krondyr,Han,Kronhjort,1.0
 2019,Greve,Krondyr,Hun,Kalv,1.0
 2019,Køge,Krondyr,Hun,Kronhind,2.0
 2019,Køge,Krondyr,Hun,Kronhind,2.0
 2019,Køge,Krondyr,Hun,Kalv,1.0
-2019,Køge,Krondyr,Han,Ikke angivet,1.0
-2019,Køge,Krondyr,Hun,Ikke angivet,2.0
 2019,Halsnæs,Krondyr,Hun,Kronhind,1.0
 2019,Halsnæs,Krondyr,Hun,Kronhind,1.0
 2019,Halsnæs,Krondyr,Han,Kalv,1.0
 2019,Halsnæs,Krondyr,Hun,Kalv,3.0
-2019,Halsnæs,Krondyr,Han,Ikke angivet,1.0
 2019,Gribskov,Krondyr,Han,Kronhjort,3.0
 2019,Gribskov,Krondyr,Han,Kronhjort,4.0
 2019,Gribskov,Krondyr,Hun,Kronhind,4.0
 2019,Gribskov,Krondyr,Han,Kalv,6.0
 2019,Gribskov,Krondyr,Hun,Kalv,4.0
-2019,Gribskov,Krondyr,Han,Ikke angivet,4.0
-2019,Gribskov,Krondyr,Hun,Ikke angivet,17.0
 2019,Odsherred,Krondyr,Han,Kalv,1.0
-2019,Odsherred,Krondyr,Hun,Ikke angivet,2.0
 2019,Holbæk,Krondyr,Han,Kronhjort,13.0
 2019,Holbæk,Krondyr,Han,Kronhjort,3.0
 2019,Holbæk,Krondyr,Hun,Kronhind,14.0
 2019,Holbæk,Krondyr,Hun,Kronhind,10.0
 2019,Holbæk,Krondyr,Han,Kalv,6.0
 2019,Holbæk,Krondyr,Hun,Kalv,17.0
-2019,Holbæk,Krondyr,Han,Ikke angivet,15.0
-2019,Holbæk,Krondyr,Hun,Ikke angivet,28.0
 2019,Faxe,Krondyr,Han,Kronhjort,1.0
-2019,Faxe,Krondyr,Han,Ikke angivet,1.0
-2019,Faxe,Krondyr,Hun,Ikke angivet,2.0
 2019,Kalundborg,Krondyr,Han,Kronhjort,27.0
 2019,Kalundborg,Krondyr,Han,Kronhjort,8.0
 2019,Kalundborg,Krondyr,Hun,Kronhind,20.0
 2019,Kalundborg,Krondyr,Hun,Kronhind,8.0
 2019,Kalundborg,Krondyr,Han,Kalv,22.0
 2019,Kalundborg,Krondyr,Hun,Kalv,18.0
-2019,Kalundborg,Krondyr,Han,Ikke angivet,15.0
-2019,Kalundborg,Krondyr,Hun,Ikke angivet,21.0
 2019,Ringsted,Krondyr,Han,Kronhjort,1.0
 2019,Ringsted,Krondyr,Han,Kalv,2.0
 2019,Ringsted,Krondyr,Hun,Kalv,2.0
 2019,Slagelse,Krondyr,Han,Kronhjort,1.0
 2019,Slagelse,Krondyr,Hun,Kronhind,1.0
-2019,Slagelse,Krondyr,Han,Ikke angivet,3.0
-2019,Slagelse,Krondyr,Hun,Ikke angivet,4.0
 2019,Sorø,Krondyr,Han,Kronhjort,5.0
 2019,Sorø,Krondyr,Han,Kronhjort,1.0
 2019,Sorø,Krondyr,Hun,Kronhind,1.0
 2019,Sorø,Krondyr,Hun,Kronhind,1.0
 2019,Sorø,Krondyr,Hun,Kalv,1.0
-2019,Sorø,Krondyr,Han,Ikke angivet,6.0
-2019,Sorø,Krondyr,Hun,Ikke angivet,2.0
 2019,Lejre,Krondyr,Han,Kronhjort,2.0
 2019,Lejre,Krondyr,Han,Kronhjort,1.0
 2019,Lejre,Krondyr,Hun,Kronhind,1.0
-2019,Lolland,Krondyr,Hun,Ikke angivet,2.0
 2019,Næstved,Krondyr,Han,Kronhjort,2.0
 2019,Næstved,Krondyr,Hun,Kronhind,1.0
 2019,Næstved,Krondyr,Han,Kalv,1.0
 2019,Næstved,Krondyr,Hun,Kalv,3.0
-2019,Næstved,Krondyr,Han,Ikke angivet,2.0
-2019,Næstved,Krondyr,Hun,Ikke angivet,3.0
 2019,Vordingborg,Krondyr,Han,Kronhjort,1.0
 2019,Vordingborg,Krondyr,Hun,Kronhind,1.0
 2019,Middelfart,Krondyr,Hun,Kronhind,2.0
@@ -9402,11 +9187,9 @@ Year,Kommune,Species,Køn,Type,Total
 2019,Assens,Krondyr,Hun,Kronhind,1.0
 2019,Assens,Krondyr,Han,Kalv,2.0
 2019,Assens,Krondyr,Hun,Kalv,1.0
-2019,Assens,Krondyr,Hun,Ikke angivet,2.0
 2019,Faaborg-Midtfyn,Krondyr,Hun,Kronhind,1.0
 2019,Faaborg-Midtfyn,Krondyr,Han,Kalv,2.0
 2019,Faaborg-Midtfyn,Krondyr,Hun,Kalv,1.0
-2019,Odense,Krondyr,Hun,Ikke angivet,1.0
 2019,Svendborg,Krondyr,Han,Kronhjort,1.0
 2019,Nordfyn,Krondyr,Hun,Kronhind,1.0
 2019,Haderslev,Krondyr,Han,Kronhjort,6.0
@@ -9415,16 +9198,12 @@ Year,Kommune,Species,Køn,Type,Total
 2019,Haderslev,Krondyr,Hun,Kronhind,8.0
 2019,Haderslev,Krondyr,Han,Kalv,10.0
 2019,Haderslev,Krondyr,Hun,Kalv,11.0
-2019,Haderslev,Krondyr,Han,Ikke angivet,7.0
-2019,Haderslev,Krondyr,Hun,Ikke angivet,13.0
 2019,Billund,Krondyr,Han,Kronhjort,57.0
 2019,Billund,Krondyr,Han,Kronhjort,38.0
 2019,Billund,Krondyr,Hun,Kronhind,40.0
 2019,Billund,Krondyr,Hun,Kronhind,24.0
 2019,Billund,Krondyr,Han,Kalv,41.0
 2019,Billund,Krondyr,Hun,Kalv,65.0
-2019,Billund,Krondyr,Han,Ikke angivet,43.0
-2019,Billund,Krondyr,Hun,Ikke angivet,69.0
 2019,Sønderborg,Krondyr,Hun,Kronhind,2.0
 2019,Sønderborg,Krondyr,Hun,Kronhind,1.0
 2019,Sønderborg,Krondyr,Han,Kalv,1.0
@@ -9434,16 +9213,12 @@ Year,Kommune,Species,Køn,Type,Total
 2019,Tønder,Krondyr,Hun,Kronhind,14.0
 2019,Tønder,Krondyr,Han,Kalv,23.0
 2019,Tønder,Krondyr,Hun,Kalv,29.0
-2019,Tønder,Krondyr,Han,Ikke angivet,18.0
-2019,Tønder,Krondyr,Hun,Ikke angivet,29.0
 2019,Esbjerg,Krondyr,Han,Kronhjort,9.0
 2019,Esbjerg,Krondyr,Han,Kronhjort,10.0
 2019,Esbjerg,Krondyr,Hun,Kronhind,11.0
 2019,Esbjerg,Krondyr,Hun,Kronhind,6.0
 2019,Esbjerg,Krondyr,Han,Kalv,6.0
 2019,Esbjerg,Krondyr,Hun,Kalv,11.0
-2019,Esbjerg,Krondyr,Han,Ikke angivet,10.0
-2019,Esbjerg,Krondyr,Hun,Ikke angivet,15.0
 2019,Fanø,Krondyr,Hun,Kalv,1.0
 2019,Varde,Krondyr,Han,Kronhjort,104.0
 2019,Varde,Krondyr,Han,Kronhjort,59.0
@@ -9451,24 +9226,18 @@ Year,Kommune,Species,Køn,Type,Total
 2019,Varde,Krondyr,Hun,Kronhind,51.0
 2019,Varde,Krondyr,Han,Kalv,67.0
 2019,Varde,Krondyr,Hun,Kalv,110.0
-2019,Varde,Krondyr,Han,Ikke angivet,88.0
-2019,Varde,Krondyr,Hun,Ikke angivet,132.0
 2019,Vejen,Krondyr,Han,Kronhjort,37.0
 2019,Vejen,Krondyr,Han,Kronhjort,16.0
 2019,Vejen,Krondyr,Hun,Kronhind,19.0
 2019,Vejen,Krondyr,Hun,Kronhind,2.0
 2019,Vejen,Krondyr,Han,Kalv,15.0
 2019,Vejen,Krondyr,Hun,Kalv,27.0
-2019,Vejen,Krondyr,Han,Ikke angivet,23.0
-2019,Vejen,Krondyr,Hun,Ikke angivet,30.0
 2019,Aabenraa,Krondyr,Han,Kronhjort,16.0
 2019,Aabenraa,Krondyr,Han,Kronhjort,15.0
 2019,Aabenraa,Krondyr,Hun,Kronhind,13.0
 2019,Aabenraa,Krondyr,Hun,Kronhind,14.0
 2019,Aabenraa,Krondyr,Han,Kalv,12.0
 2019,Aabenraa,Krondyr,Hun,Kalv,14.0
-2019,Aabenraa,Krondyr,Han,Ikke angivet,19.0
-2019,Aabenraa,Krondyr,Hun,Ikke angivet,20.0
 2019,Fredericia,Krondyr,Han,Kronhjort,1.0
 2019,Fredericia,Krondyr,Hun,Kronhind,1.0
 2019,Horsens,Krondyr,Han,Kronhjort,10.0
@@ -9476,224 +9245,167 @@ Year,Kommune,Species,Køn,Type,Total
 2019,Horsens,Krondyr,Hun,Kronhind,4.0
 2019,Horsens,Krondyr,Hun,Kronhind,6.0
 2019,Horsens,Krondyr,Hun,Kalv,9.0
-2019,Horsens,Krondyr,Han,Ikke angivet,5.0
-2019,Horsens,Krondyr,Hun,Ikke angivet,7.0
 2019,Kolding,Krondyr,Han,Kronhjort,4.0
 2019,Kolding,Krondyr,Han,Kronhjort,1.0
 2019,Kolding,Krondyr,Hun,Kronhind,3.0
 2019,Kolding,Krondyr,Hun,Kronhind,1.0
 2019,Kolding,Krondyr,Hun,Kalv,2.0
-2019,Kolding,Krondyr,Han,Ikke angivet,2.0
-2019,Kolding,Krondyr,Hun,Ikke angivet,6.0
 2019,Vejle,Krondyr,Han,Kronhjort,40.0
 2019,Vejle,Krondyr,Han,Kronhjort,19.0
 2019,Vejle,Krondyr,Hun,Kronhind,21.0
 2019,Vejle,Krondyr,Hun,Kronhind,10.0
 2019,Vejle,Krondyr,Han,Kalv,20.0
 2019,Vejle,Krondyr,Hun,Kalv,25.0
-2019,Vejle,Krondyr,Han,Ikke angivet,42.0
-2019,Vejle,Krondyr,Hun,Ikke angivet,28.0
 2019,Herning,Krondyr,Han,Kronhjort,103.0
 2019,Herning,Krondyr,Han,Kronhjort,77.0
 2019,Herning,Krondyr,Hun,Kronhind,86.0
 2019,Herning,Krondyr,Hun,Kronhind,39.0
 2019,Herning,Krondyr,Han,Kalv,56.0
 2019,Herning,Krondyr,Hun,Kalv,83.0
-2019,Herning,Krondyr,Han,Ikke angivet,74.0
-2019,Herning,Krondyr,Hun,Ikke angivet,138.0
 2019,Holstebro,Krondyr,Han,Kronhjort,50.0
 2019,Holstebro,Krondyr,Han,Kronhjort,41.0
 2019,Holstebro,Krondyr,Hun,Kronhind,68.0
 2019,Holstebro,Krondyr,Hun,Kronhind,24.0
 2019,Holstebro,Krondyr,Han,Kalv,33.0
 2019,Holstebro,Krondyr,Hun,Kalv,47.0
-2019,Holstebro,Krondyr,Han,Ikke angivet,41.0
-2019,Holstebro,Krondyr,Hun,Ikke angivet,102.0
 2019,Lemvig,Krondyr,Han,Kronhjort,30.0
 2019,Lemvig,Krondyr,Han,Kronhjort,16.0
 2019,Lemvig,Krondyr,Hun,Kronhind,15.0
 2019,Lemvig,Krondyr,Hun,Kronhind,6.0
 2019,Lemvig,Krondyr,Han,Kalv,13.0
 2019,Lemvig,Krondyr,Hun,Kalv,26.0
-2019,Lemvig,Krondyr,Han,Ikke angivet,12.0
-2019,Lemvig,Krondyr,Hun,Ikke angivet,23.0
 2019,Struer,Krondyr,Han,Kronhjort,3.0
 2019,Struer,Krondyr,Han,Kronhjort,2.0
 2019,Struer,Krondyr,Hun,Kronhind,1.0
 2019,Struer,Krondyr,Hun,Kronhind,2.0
 2019,Struer,Krondyr,Han,Kalv,1.0
 2019,Struer,Krondyr,Hun,Kalv,1.0
-2019,Struer,Krondyr,Han,Ikke angivet,6.0
-2019,Struer,Krondyr,Hun,Ikke angivet,4.0
 2019,Syddjurs,Krondyr,Han,Kronhjort,46.0
 2019,Syddjurs,Krondyr,Han,Kronhjort,21.0
 2019,Syddjurs,Krondyr,Hun,Kronhind,39.0
 2019,Syddjurs,Krondyr,Hun,Kronhind,28.0
 2019,Syddjurs,Krondyr,Han,Kalv,22.0
 2019,Syddjurs,Krondyr,Hun,Kalv,43.0
-2019,Syddjurs,Krondyr,Han,Ikke angivet,34.0
-2019,Syddjurs,Krondyr,Hun,Ikke angivet,45.0
 2019,Norddjurs,Krondyr,Han,Kronhjort,63.0
 2019,Norddjurs,Krondyr,Han,Kronhjort,46.0
 2019,Norddjurs,Krondyr,Hun,Kronhind,55.0
 2019,Norddjurs,Krondyr,Hun,Kronhind,24.0
 2019,Norddjurs,Krondyr,Han,Kalv,41.0
 2019,Norddjurs,Krondyr,Hun,Kalv,82.0
-2019,Norddjurs,Krondyr,Han,Ikke angivet,58.0
-2019,Norddjurs,Krondyr,Hun,Ikke angivet,111.0
 2019,Favrskov,Krondyr,Han,Kronhjort,8.0
 2019,Favrskov,Krondyr,Han,Kronhjort,6.0
 2019,Favrskov,Krondyr,Hun,Kronhind,3.0
 2019,Favrskov,Krondyr,Hun,Kronhind,2.0
 2019,Favrskov,Krondyr,Han,Kalv,3.0
 2019,Favrskov,Krondyr,Hun,Kalv,6.0
-2019,Favrskov,Krondyr,Han,Ikke angivet,10.0
-2019,Favrskov,Krondyr,Hun,Ikke angivet,6.0
 2019,Odder,Krondyr,Han,Kronhjort,8.0
 2019,Odder,Krondyr,Han,Kronhjort,2.0
 2019,Odder,Krondyr,Hun,Kronhind,3.0
 2019,Odder,Krondyr,Hun,Kronhind,1.0
 2019,Odder,Krondyr,Han,Kalv,2.0
 2019,Odder,Krondyr,Hun,Kalv,3.0
-2019,Odder,Krondyr,Hun,Ikke angivet,8.0
 2019,Randers,Krondyr,Han,Kronhjort,5.0
 2019,Randers,Krondyr,Han,Kronhjort,2.0
 2019,Randers,Krondyr,Hun,Kronhind,1.0
 2019,Randers,Krondyr,Han,Kalv,3.0
 2019,Randers,Krondyr,Hun,Kalv,6.0
-2019,Randers,Krondyr,Han,Ikke angivet,5.0
-2019,Randers,Krondyr,Hun,Ikke angivet,8.0
 2019,Silkeborg,Krondyr,Han,Kronhjort,22.0
 2019,Silkeborg,Krondyr,Han,Kronhjort,15.0
 2019,Silkeborg,Krondyr,Hun,Kronhind,37.0
 2019,Silkeborg,Krondyr,Hun,Kronhind,17.0
 2019,Silkeborg,Krondyr,Han,Kalv,27.0
 2019,Silkeborg,Krondyr,Hun,Kalv,49.0
-2019,Silkeborg,Krondyr,Han,Ikke angivet,24.0
-2019,Silkeborg,Krondyr,Hun,Ikke angivet,61.0
 2019,Skanderborg,Krondyr,Han,Kronhjort,4.0
 2019,Skanderborg,Krondyr,Han,Kronhjort,2.0
 2019,Skanderborg,Krondyr,Hun,Kronhind,2.0
 2019,Skanderborg,Krondyr,Hun,Kronhind,1.0
 2019,Skanderborg,Krondyr,Han,Kalv,2.0
 2019,Skanderborg,Krondyr,Hun,Kalv,4.0
-2019,Skanderborg,Krondyr,Han,Ikke angivet,5.0
-2019,Skanderborg,Krondyr,Hun,Ikke angivet,2.0
 2019,Aarhus,Krondyr,Han,Kronhjort,3.0
 2019,Aarhus,Krondyr,Han,Kronhjort,1.0
 2019,Aarhus,Krondyr,Hun,Kronhind,5.0
 2019,Aarhus,Krondyr,Hun,Kronhind,1.0
 2019,Aarhus,Krondyr,Hun,Kalv,6.0
-2019,Aarhus,Krondyr,Han,Ikke angivet,2.0
-2019,Aarhus,Krondyr,Hun,Ikke angivet,10.0
 2019,Ikast-Brande,Krondyr,Han,Kronhjort,57.0
 2019,Ikast-Brande,Krondyr,Han,Kronhjort,67.0
 2019,Ikast-Brande,Krondyr,Hun,Kronhind,64.0
 2019,Ikast-Brande,Krondyr,Hun,Kronhind,23.0
 2019,Ikast-Brande,Krondyr,Han,Kalv,34.0
 2019,Ikast-Brande,Krondyr,Hun,Kalv,69.0
-2019,Ikast-Brande,Krondyr,Han,Ikke angivet,62.0
-2019,Ikast-Brande,Krondyr,Hun,Ikke angivet,96.0
 2019,Ringkøbing-Skjern,Krondyr,Han,Kronhjort,114.0
 2019,Ringkøbing-Skjern,Krondyr,Han,Kronhjort,62.0
 2019,Ringkøbing-Skjern,Krondyr,Hun,Kronhind,81.0
 2019,Ringkøbing-Skjern,Krondyr,Hun,Kronhind,37.0
 2019,Ringkøbing-Skjern,Krondyr,Han,Kalv,43.0
 2019,Ringkøbing-Skjern,Krondyr,Hun,Kalv,83.0
-2019,Ringkøbing-Skjern,Krondyr,Han,Ikke angivet,75.0
-2019,Ringkøbing-Skjern,Krondyr,Hun,Ikke angivet,112.0
 2019,Hedensted,Krondyr,Han,Kronhjort,4.0
 2019,Hedensted,Krondyr,Hun,Kronhind,2.0
 2019,Hedensted,Krondyr,Han,Kalv,1.0
 2019,Hedensted,Krondyr,Hun,Kalv,1.0
-2019,Hedensted,Krondyr,Han,Ikke angivet,4.0
-2019,Hedensted,Krondyr,Hun,Ikke angivet,5.0
-2019,Morsø,Krondyr,Hun,Ikke angivet,1.0
 2019,Skive,Krondyr,Han,Kronhjort,5.0
 2019,Skive,Krondyr,Han,Kronhjort,1.0
 2019,Skive,Krondyr,Hun,Kronhind,1.0
 2019,Skive,Krondyr,Hun,Kronhind,2.0
 2019,Skive,Krondyr,Hun,Kalv,6.0
-2019,Skive,Krondyr,Han,Ikke angivet,1.0
 2019,Thisted,Krondyr,Han,Kronhjort,49.0
 2019,Thisted,Krondyr,Han,Kronhjort,37.0
 2019,Thisted,Krondyr,Hun,Kronhind,82.0
 2019,Thisted,Krondyr,Hun,Kronhind,34.0
 2019,Thisted,Krondyr,Han,Kalv,34.0
 2019,Thisted,Krondyr,Hun,Kalv,61.0
-2019,Thisted,Krondyr,Han,Ikke angivet,51.0
-2019,Thisted,Krondyr,Hun,Ikke angivet,96.0
 2019,Viborg,Krondyr,Han,Kronhjort,38.0
 2019,Viborg,Krondyr,Han,Kronhjort,34.0
 2019,Viborg,Krondyr,Hun,Kronhind,39.0
 2019,Viborg,Krondyr,Hun,Kronhind,14.0
 2019,Viborg,Krondyr,Han,Kalv,32.0
 2019,Viborg,Krondyr,Hun,Kalv,40.0
-2019,Viborg,Krondyr,Han,Ikke angivet,31.0
-2019,Viborg,Krondyr,Hun,Ikke angivet,57.0
 2019,Brønderslev-Dronninglund,Krondyr,Han,Kronhjort,11.0
 2019,Brønderslev-Dronninglund,Krondyr,Han,Kronhjort,9.0
 2019,Brønderslev-Dronninglund,Krondyr,Hun,Kronhind,3.0
 2019,Brønderslev-Dronninglund,Krondyr,Han,Kalv,1.0
 2019,Brønderslev-Dronninglund,Krondyr,Hun,Kalv,4.0
-2019,Brønderslev-Dronninglund,Krondyr,Han,Ikke angivet,6.0
-2019,Brønderslev-Dronninglund,Krondyr,Hun,Ikke angivet,7.0
 2019,Frederikshavn,Krondyr,Han,Kronhjort,19.0
 2019,Frederikshavn,Krondyr,Han,Kronhjort,6.0
 2019,Frederikshavn,Krondyr,Hun,Kronhind,21.0
 2019,Frederikshavn,Krondyr,Hun,Kronhind,14.0
 2019,Frederikshavn,Krondyr,Han,Kalv,10.0
 2019,Frederikshavn,Krondyr,Hun,Kalv,17.0
-2019,Frederikshavn,Krondyr,Han,Ikke angivet,18.0
-2019,Frederikshavn,Krondyr,Hun,Ikke angivet,33.0
 2019,Vesthimmerland,Krondyr,Han,Kronhjort,11.0
 2019,Vesthimmerland,Krondyr,Han,Kronhjort,4.0
 2019,Vesthimmerland,Krondyr,Hun,Kronhind,3.0
 2019,Vesthimmerland,Krondyr,Hun,Kronhind,2.0
 2019,Vesthimmerland,Krondyr,Han,Kalv,2.0
 2019,Vesthimmerland,Krondyr,Hun,Kalv,4.0
-2019,Vesthimmerland,Krondyr,Han,Ikke angivet,2.0
-2019,Vesthimmerland,Krondyr,Hun,Ikke angivet,1.0
 2019,Rebild,Krondyr,Han,Kronhjort,7.0
 2019,Rebild,Krondyr,Han,Kronhjort,6.0
 2019,Rebild,Krondyr,Hun,Kronhind,14.0
 2019,Rebild,Krondyr,Hun,Kronhind,2.0
 2019,Rebild,Krondyr,Han,Kalv,7.0
 2019,Rebild,Krondyr,Hun,Kalv,11.0
-2019,Rebild,Krondyr,Han,Ikke angivet,4.0
-2019,Rebild,Krondyr,Hun,Ikke angivet,21.0
 2019,Mariagerfjord,Krondyr,Han,Kronhjort,13.0
 2019,Mariagerfjord,Krondyr,Han,Kronhjort,2.0
 2019,Mariagerfjord,Krondyr,Hun,Kronhind,4.0
 2019,Mariagerfjord,Krondyr,Hun,Kronhind,1.0
 2019,Mariagerfjord,Krondyr,Han,Kalv,4.0
 2019,Mariagerfjord,Krondyr,Hun,Kalv,11.0
-2019,Mariagerfjord,Krondyr,Han,Ikke angivet,12.0
-2019,Mariagerfjord,Krondyr,Hun,Ikke angivet,3.0
 2019,Jammerbugt,Krondyr,Han,Kronhjort,31.0
 2019,Jammerbugt,Krondyr,Han,Kronhjort,21.0
 2019,Jammerbugt,Krondyr,Hun,Kronhind,21.0
 2019,Jammerbugt,Krondyr,Hun,Kronhind,7.0
 2019,Jammerbugt,Krondyr,Han,Kalv,20.0
 2019,Jammerbugt,Krondyr,Hun,Kalv,31.0
-2019,Jammerbugt,Krondyr,Han,Ikke angivet,38.0
-2019,Jammerbugt,Krondyr,Hun,Ikke angivet,48.0
 2019,Aalborg,Krondyr,Han,Kronhjort,9.0
 2019,Aalborg,Krondyr,Han,Kronhjort,3.0
 2019,Aalborg,Krondyr,Hun,Kronhind,6.0
 2019,Aalborg,Krondyr,Hun,Kronhind,2.0
 2019,Aalborg,Krondyr,Han,Kalv,2.0
 2019,Aalborg,Krondyr,Hun,Kalv,2.0
-2019,Aalborg,Krondyr,Han,Ikke angivet,3.0
-2019,Aalborg,Krondyr,Hun,Ikke angivet,6.0
 2019,Hjørring,Krondyr,Han,Kronhjort,10.0
 2019,Hjørring,Krondyr,Han,Kronhjort,7.0
 2019,Hjørring,Krondyr,Hun,Kronhind,4.0
 2019,Hjørring,Krondyr,Hun,Kronhind,5.0
 2019,Hjørring,Krondyr,Han,Kalv,6.0
 2019,Hjørring,Krondyr,Hun,Kalv,12.0
-2019,Hjørring,Krondyr,Han,Ikke angivet,18.0
-2019,Hjørring,Krondyr,Hun,Ikke angivet,18.0
 2020,Gentofte,Krondyr,Han,Kronhjort,1.0
 2020,Fredensborg,Krondyr,Han,Kronhjort,1.0
 2020,Fredensborg,Krondyr,Hun,Kronhind,1.0
@@ -9703,7 +9415,6 @@ Year,Kommune,Species,Køn,Type,Total
 2020,Hillerød,Krondyr,Hun,Kronhind,2.0
 2020,Hillerød,Krondyr,Han,Kalv,1.0
 2020,Hillerød,Krondyr,Hun,Kalv,2.0
-2020,Hillerød,Krondyr,Hun,Ikke angivet,1.0
 2020,Hørsholm,Krondyr,Hun,Kronhind,1.0
 2020,Egedal,Krondyr,Hun,Kronhind,1.0
 2020,Greve,Krondyr,Han,Kronhjort,1.0
@@ -9715,395 +9426,285 @@ Year,Kommune,Species,Køn,Type,Total
 2020,Halsnæs,Krondyr,Han,Kronhjort,1.0
 2020,Halsnæs,Krondyr,Hun,Kronhind,4.0
 2020,Halsnæs,Krondyr,Hun,Kalv,3.0
-2020,Halsnæs,Krondyr,Han,Ikke angivet,2.0
-2020,Halsnæs,Krondyr,Hun,Ikke angivet,1.0
 2020,Gribskov,Krondyr,Han,Kronhjort,2.0
 2020,Gribskov,Krondyr,Han,Kronhjort,10.0
 2020,Gribskov,Krondyr,Hun,Kronhind,3.0
 2020,Gribskov,Krondyr,Hun,Kronhind,2.0
 2020,Gribskov,Krondyr,Han,Kalv,7.0
 2020,Gribskov,Krondyr,Hun,Kalv,10.0
-2020,Gribskov,Krondyr,Han,Ikke angivet,7.0
-2020,Gribskov,Krondyr,Hun,Ikke angivet,14.0
 2020,Odsherred,Krondyr,Han,Kronhjort,1.0
-2020,Odsherred,Krondyr,Han,Ikke angivet,2.0
-2020,Odsherred,Krondyr,Hun,Ikke angivet,4.0
 2020,Holbæk,Krondyr,Han,Kronhjort,20.0
 2020,Holbæk,Krondyr,Han,Kronhjort,6.0
 2020,Holbæk,Krondyr,Hun,Kronhind,25.0
 2020,Holbæk,Krondyr,Hun,Kronhind,7.0
 2020,Holbæk,Krondyr,Han,Kalv,16.0
 2020,Holbæk,Krondyr,Hun,Kalv,21.0
-2020,Holbæk,Krondyr,Han,Ikke angivet,19.0
-2020,Holbæk,Krondyr,Hun,Ikke angivet,37.0
 2020,Faxe,Krondyr,Han,Kronhjort,3.0
 2020,Faxe,Krondyr,Han,Kronhjort,1.0
 2020,Faxe,Krondyr,Han,Kalv,1.0
 2020,Faxe,Krondyr,Hun,Kalv,2.0
-2020,Faxe,Krondyr,Hun,Ikke angivet,4.0
 2020,Kalundborg,Krondyr,Han,Kronhjort,29.0
 2020,Kalundborg,Krondyr,Han,Kronhjort,17.0
 2020,Kalundborg,Krondyr,Hun,Kronhind,15.0
 2020,Kalundborg,Krondyr,Hun,Kronhind,14.0
 2020,Kalundborg,Krondyr,Han,Kalv,14.0
 2020,Kalundborg,Krondyr,Hun,Kalv,24.0
-2020,Kalundborg,Krondyr,Han,Ikke angivet,25.0
-2020,Kalundborg,Krondyr,Hun,Ikke angivet,16.0
 2020,Ringsted,Krondyr,Han,Kronhjort,3.0
 2020,Ringsted,Krondyr,Han,Kronhjort,2.0
 2020,Ringsted,Krondyr,Hun,Kronhind,1.0
 2020,Ringsted,Krondyr,Hun,Kalv,1.0
-2020,Ringsted,Krondyr,Han,Ikke angivet,1.0
-2020,Ringsted,Krondyr,Hun,Ikke angivet,1.0
 2020,Slagelse,Krondyr,Han,Kronhjort,3.0
 2020,Slagelse,Krondyr,Han,Kronhjort,1.0
 2020,Slagelse,Krondyr,Hun,Kronhind,2.0
 2020,Slagelse,Krondyr,Hun,Kronhind,1.0
 2020,Slagelse,Krondyr,Han,Kalv,1.0
-2020,Slagelse,Krondyr,Han,Ikke angivet,2.0
 2020,Sorø,Krondyr,Han,Kronhjort,4.0
 2020,Sorø,Krondyr,Han,Kronhjort,7.0
 2020,Sorø,Krondyr,Hun,Kronhind,4.0
 2020,Sorø,Krondyr,Han,Kalv,5.0
 2020,Sorø,Krondyr,Hun,Kalv,4.0
-2020,Sorø,Krondyr,Han,Ikke angivet,10.0
-2020,Sorø,Krondyr,Hun,Ikke angivet,2.0
 2020,Lejre,Krondyr,Han,Kronhjort,1.0
-2020,Lejre,Krondyr,Han,Ikke angivet,3.0
-2020,Lejre,Krondyr,Hun,Ikke angivet,1.0
 2020,Lolland,Krondyr,Han,Kronhjort,1.0
 2020,Lolland,Krondyr,Hun,Kronhind,1.0
 2020,Lolland,Krondyr,Hun,Kalv,1.0
-2020,Lolland,Krondyr,Han,Ikke angivet,1.0
-2020,Lolland,Krondyr,Hun,Ikke angivet,1.0
 2020,Næstved,Krondyr,Han,Kronhjort,5.0
 2020,Næstved,Krondyr,Hun,Kronhind,4.0
 2020,Næstved,Krondyr,Hun,Kronhind,3.0
 2020,Næstved,Krondyr,Hun,Kalv,6.0
-2020,Næstved,Krondyr,Han,Ikke angivet,3.0
-2020,Næstved,Krondyr,Hun,Ikke angivet,1.0
-2020,Guldborgsund,Krondyr,Hun,Ikke angivet,1.0
 2020,Vordingborg,Krondyr,Han,Kronhjort,2.0
 2020,Vordingborg,Krondyr,Hun,Kronhind,1.0
 2020,Vordingborg,Krondyr,Hun,Kronhind,1.0
-2020,Vordingborg,Krondyr,Han,Ikke angivet,1.0
 2020,Bornholm,Krondyr,Han,Kronhjort,1.0
 2020,Middelfart,Krondyr,Han,Kronhjort,1.0
 2020,Middelfart,Krondyr,Han,Kronhjort,1.0
 2020,Middelfart,Krondyr,Hun,Kronhind,2.0
 2020,Middelfart,Krondyr,Han,Kalv,7.0
 2020,Middelfart,Krondyr,Hun,Kalv,5.0
-2020,Middelfart,Krondyr,Han,Ikke angivet,1.0
-2020,Middelfart,Krondyr,Hun,Ikke angivet,2.0
 2020,Assens,Krondyr,Hun,Kronhind,1.0
 2020,Assens,Krondyr,Hun,Kalv,1.0
-2020,Assens,Krondyr,Hun,Ikke angivet,2.0
 2020,Faaborg-Midtfyn,Krondyr,Hun,Kalv,1.0
-2020,Faaborg-Midtfyn,Krondyr,Han,Ikke angivet,1.0
 2020,Odense,Krondyr,Han,Kronhjort,1.0
 2020,Svendborg,Krondyr,Han,Kronhjort,1.0
 2020,Nordfyn,Krondyr,Han,Kalv,1.0
-2020,Nordfyn,Krondyr,Hun,Ikke angivet,1.0
 2020,Haderslev,Krondyr,Han,Kronhjort,12.0
 2020,Haderslev,Krondyr,Han,Kronhjort,14.0
 2020,Haderslev,Krondyr,Hun,Kronhind,8.0
 2020,Haderslev,Krondyr,Hun,Kronhind,6.0
 2020,Haderslev,Krondyr,Han,Kalv,16.0
 2020,Haderslev,Krondyr,Hun,Kalv,13.0
-2020,Haderslev,Krondyr,Han,Ikke angivet,11.0
-2020,Haderslev,Krondyr,Hun,Ikke angivet,23.0
 2020,Billund,Krondyr,Han,Kronhjort,54.0
 2020,Billund,Krondyr,Han,Kronhjort,41.0
 2020,Billund,Krondyr,Hun,Kronhind,34.0
 2020,Billund,Krondyr,Hun,Kronhind,30.0
 2020,Billund,Krondyr,Han,Kalv,32.0
 2020,Billund,Krondyr,Hun,Kalv,59.0
-2020,Billund,Krondyr,Han,Ikke angivet,36.0
-2020,Billund,Krondyr,Hun,Ikke angivet,68.0
 2020,Sønderborg,Krondyr,Hun,Kronhind,1.0
 2020,Sønderborg,Krondyr,Hun,Kalv,1.0
-2020,Sønderborg,Krondyr,Hun,Ikke angivet,1.0
 2020,Tønder,Krondyr,Han,Kronhjort,34.0
 2020,Tønder,Krondyr,Han,Kronhjort,25.0
 2020,Tønder,Krondyr,Hun,Kronhind,28.0
 2020,Tønder,Krondyr,Hun,Kronhind,22.0
 2020,Tønder,Krondyr,Han,Kalv,16.0
 2020,Tønder,Krondyr,Hun,Kalv,50.0
-2020,Tønder,Krondyr,Han,Ikke angivet,40.0
-2020,Tønder,Krondyr,Hun,Ikke angivet,38.0
 2020,Esbjerg,Krondyr,Han,Kronhjort,11.0
 2020,Esbjerg,Krondyr,Han,Kronhjort,6.0
 2020,Esbjerg,Krondyr,Hun,Kronhind,9.0
 2020,Esbjerg,Krondyr,Hun,Kronhind,2.0
 2020,Esbjerg,Krondyr,Han,Kalv,2.0
 2020,Esbjerg,Krondyr,Hun,Kalv,12.0
-2020,Esbjerg,Krondyr,Han,Ikke angivet,9.0
-2020,Esbjerg,Krondyr,Hun,Ikke angivet,9.0
 2020,Varde,Krondyr,Han,Kronhjort,90.0
 2020,Varde,Krondyr,Han,Kronhjort,74.0
 2020,Varde,Krondyr,Hun,Kronhind,84.0
 2020,Varde,Krondyr,Hun,Kronhind,43.0
 2020,Varde,Krondyr,Han,Kalv,57.0
 2020,Varde,Krondyr,Hun,Kalv,83.0
-2020,Varde,Krondyr,Han,Ikke angivet,51.0
-2020,Varde,Krondyr,Hun,Ikke angivet,75.0
 2020,Vejen,Krondyr,Han,Kronhjort,38.0
 2020,Vejen,Krondyr,Han,Kronhjort,25.0
 2020,Vejen,Krondyr,Hun,Kronhind,12.0
 2020,Vejen,Krondyr,Hun,Kronhind,13.0
 2020,Vejen,Krondyr,Han,Kalv,20.0
 2020,Vejen,Krondyr,Hun,Kalv,36.0
-2020,Vejen,Krondyr,Han,Ikke angivet,32.0
-2020,Vejen,Krondyr,Hun,Ikke angivet,43.0
 2020,Aabenraa,Krondyr,Han,Kronhjort,18.0
 2020,Aabenraa,Krondyr,Han,Kronhjort,9.0
 2020,Aabenraa,Krondyr,Hun,Kronhind,8.0
 2020,Aabenraa,Krondyr,Hun,Kronhind,10.0
 2020,Aabenraa,Krondyr,Han,Kalv,11.0
 2020,Aabenraa,Krondyr,Hun,Kalv,10.0
-2020,Aabenraa,Krondyr,Han,Ikke angivet,19.0
-2020,Aabenraa,Krondyr,Hun,Ikke angivet,25.0
-2020,Fredericia,Krondyr,Han,Ikke angivet,1.0
 2020,Horsens,Krondyr,Han,Kronhjort,7.0
 2020,Horsens,Krondyr,Han,Kronhjort,8.0
 2020,Horsens,Krondyr,Hun,Kronhind,7.0
 2020,Horsens,Krondyr,Hun,Kronhind,2.0
 2020,Horsens,Krondyr,Han,Kalv,1.0
 2020,Horsens,Krondyr,Hun,Kalv,5.0
-2020,Horsens,Krondyr,Han,Ikke angivet,5.0
-2020,Horsens,Krondyr,Hun,Ikke angivet,4.0
 2020,Kolding,Krondyr,Han,Kronhjort,8.0
 2020,Kolding,Krondyr,Han,Kronhjort,2.0
 2020,Kolding,Krondyr,Hun,Kronhind,7.0
 2020,Kolding,Krondyr,Han,Kalv,2.0
 2020,Kolding,Krondyr,Hun,Kalv,4.0
-2020,Kolding,Krondyr,Han,Ikke angivet,8.0
-2020,Kolding,Krondyr,Hun,Ikke angivet,6.0
 2020,Vejle,Krondyr,Han,Kronhjort,46.0
 2020,Vejle,Krondyr,Han,Kronhjort,22.0
 2020,Vejle,Krondyr,Hun,Kronhind,20.0
 2020,Vejle,Krondyr,Hun,Kronhind,7.0
 2020,Vejle,Krondyr,Han,Kalv,17.0
 2020,Vejle,Krondyr,Hun,Kalv,24.0
-2020,Vejle,Krondyr,Han,Ikke angivet,36.0
-2020,Vejle,Krondyr,Hun,Ikke angivet,28.0
 2020,Herning,Krondyr,Han,Kronhjort,119.0
 2020,Herning,Krondyr,Han,Kronhjort,92.0
 2020,Herning,Krondyr,Hun,Kronhind,63.0
 2020,Herning,Krondyr,Hun,Kronhind,46.0
 2020,Herning,Krondyr,Han,Kalv,58.0
 2020,Herning,Krondyr,Hun,Kalv,82.0
-2020,Herning,Krondyr,Han,Ikke angivet,74.0
-2020,Herning,Krondyr,Hun,Ikke angivet,123.0
 2020,Holstebro,Krondyr,Han,Kronhjort,75.0
 2020,Holstebro,Krondyr,Han,Kronhjort,35.0
 2020,Holstebro,Krondyr,Hun,Kronhind,55.0
 2020,Holstebro,Krondyr,Hun,Kronhind,35.0
 2020,Holstebro,Krondyr,Han,Kalv,35.0
 2020,Holstebro,Krondyr,Hun,Kalv,60.0
-2020,Holstebro,Krondyr,Han,Ikke angivet,58.0
-2020,Holstebro,Krondyr,Hun,Ikke angivet,90.0
 2020,Lemvig,Krondyr,Han,Kronhjort,36.0
 2020,Lemvig,Krondyr,Han,Kronhjort,14.0
 2020,Lemvig,Krondyr,Hun,Kronhind,18.0
 2020,Lemvig,Krondyr,Hun,Kronhind,7.0
 2020,Lemvig,Krondyr,Han,Kalv,10.0
 2020,Lemvig,Krondyr,Hun,Kalv,20.0
-2020,Lemvig,Krondyr,Han,Ikke angivet,17.0
-2020,Lemvig,Krondyr,Hun,Ikke angivet,32.0
 2020,Struer,Krondyr,Han,Kronhjort,5.0
 2020,Struer,Krondyr,Han,Kronhjort,2.0
 2020,Struer,Krondyr,Hun,Kronhind,7.0
 2020,Struer,Krondyr,Hun,Kronhind,2.0
 2020,Struer,Krondyr,Han,Kalv,3.0
 2020,Struer,Krondyr,Hun,Kalv,4.0
-2020,Struer,Krondyr,Han,Ikke angivet,7.0
-2020,Struer,Krondyr,Hun,Ikke angivet,4.0
 2020,Syddjurs,Krondyr,Han,Kronhjort,29.0
 2020,Syddjurs,Krondyr,Han,Kronhjort,28.0
 2020,Syddjurs,Krondyr,Hun,Kronhind,34.0
 2020,Syddjurs,Krondyr,Hun,Kronhind,15.0
 2020,Syddjurs,Krondyr,Han,Kalv,20.0
 2020,Syddjurs,Krondyr,Hun,Kalv,44.0
-2020,Syddjurs,Krondyr,Han,Ikke angivet,30.0
-2020,Syddjurs,Krondyr,Hun,Ikke angivet,39.0
 2020,Norddjurs,Krondyr,Han,Kronhjort,68.0
 2020,Norddjurs,Krondyr,Han,Kronhjort,55.0
 2020,Norddjurs,Krondyr,Hun,Kronhind,70.0
 2020,Norddjurs,Krondyr,Hun,Kronhind,31.0
 2020,Norddjurs,Krondyr,Han,Kalv,42.0
 2020,Norddjurs,Krondyr,Hun,Kalv,63.0
-2020,Norddjurs,Krondyr,Han,Ikke angivet,56.0
-2020,Norddjurs,Krondyr,Hun,Ikke angivet,73.0
 2020,Favrskov,Krondyr,Han,Kronhjort,18.0
 2020,Favrskov,Krondyr,Han,Kronhjort,7.0
 2020,Favrskov,Krondyr,Hun,Kronhind,7.0
 2020,Favrskov,Krondyr,Hun,Kronhind,5.0
 2020,Favrskov,Krondyr,Han,Kalv,4.0
 2020,Favrskov,Krondyr,Hun,Kalv,8.0
-2020,Favrskov,Krondyr,Han,Ikke angivet,8.0
-2020,Favrskov,Krondyr,Hun,Ikke angivet,12.0
 2020,Odder,Krondyr,Han,Kronhjort,4.0
 2020,Odder,Krondyr,Han,Kronhjort,4.0
 2020,Odder,Krondyr,Hun,Kronhind,1.0
 2020,Odder,Krondyr,Hun,Kronhind,1.0
 2020,Odder,Krondyr,Han,Kalv,1.0
 2020,Odder,Krondyr,Hun,Kalv,5.0
-2020,Odder,Krondyr,Han,Ikke angivet,2.0
-2020,Odder,Krondyr,Hun,Ikke angivet,1.0
 2020,Randers,Krondyr,Han,Kronhjort,4.0
 2020,Randers,Krondyr,Han,Kronhjort,4.0
 2020,Randers,Krondyr,Hun,Kronhind,1.0
 2020,Randers,Krondyr,Hun,Kronhind,1.0
 2020,Randers,Krondyr,Han,Kalv,2.0
 2020,Randers,Krondyr,Hun,Kalv,2.0
-2020,Randers,Krondyr,Han,Ikke angivet,3.0
-2020,Randers,Krondyr,Hun,Ikke angivet,1.0
 2020,Silkeborg,Krondyr,Han,Kronhjort,36.0
 2020,Silkeborg,Krondyr,Han,Kronhjort,21.0
 2020,Silkeborg,Krondyr,Hun,Kronhind,29.0
 2020,Silkeborg,Krondyr,Hun,Kronhind,14.0
 2020,Silkeborg,Krondyr,Han,Kalv,16.0
 2020,Silkeborg,Krondyr,Hun,Kalv,35.0
-2020,Silkeborg,Krondyr,Han,Ikke angivet,46.0
-2020,Silkeborg,Krondyr,Hun,Ikke angivet,46.0
 2020,Skanderborg,Krondyr,Han,Kronhjort,22.0
 2020,Skanderborg,Krondyr,Han,Kronhjort,3.0
 2020,Skanderborg,Krondyr,Hun,Kronhind,4.0
 2020,Skanderborg,Krondyr,Hun,Kronhind,1.0
 2020,Skanderborg,Krondyr,Han,Kalv,2.0
 2020,Skanderborg,Krondyr,Hun,Kalv,8.0
-2020,Skanderborg,Krondyr,Han,Ikke angivet,3.0
-2020,Skanderborg,Krondyr,Hun,Ikke angivet,2.0
 2020,Aarhus,Krondyr,Han,Kronhjort,8.0
 2020,Aarhus,Krondyr,Hun,Kronhind,2.0
 2020,Aarhus,Krondyr,Hun,Kronhind,3.0
 2020,Aarhus,Krondyr,Han,Kalv,1.0
 2020,Aarhus,Krondyr,Hun,Kalv,7.0
-2020,Aarhus,Krondyr,Han,Ikke angivet,5.0
-2020,Aarhus,Krondyr,Hun,Ikke angivet,2.0
 2020,Ikast-Brande,Krondyr,Han,Kronhjort,77.0
 2020,Ikast-Brande,Krondyr,Han,Kronhjort,51.0
 2020,Ikast-Brande,Krondyr,Hun,Kronhind,49.0
 2020,Ikast-Brande,Krondyr,Hun,Kronhind,28.0
 2020,Ikast-Brande,Krondyr,Han,Kalv,44.0
 2020,Ikast-Brande,Krondyr,Hun,Kalv,69.0
-2020,Ikast-Brande,Krondyr,Han,Ikke angivet,50.0
-2020,Ikast-Brande,Krondyr,Hun,Ikke angivet,74.0
 2020,Ringkøbing-Skjern,Krondyr,Han,Kronhjort,121.0
 2020,Ringkøbing-Skjern,Krondyr,Han,Kronhjort,62.0
 2020,Ringkøbing-Skjern,Krondyr,Hun,Kronhind,68.0
 2020,Ringkøbing-Skjern,Krondyr,Hun,Kronhind,57.0
 2020,Ringkøbing-Skjern,Krondyr,Han,Kalv,39.0
 2020,Ringkøbing-Skjern,Krondyr,Hun,Kalv,71.0
-2020,Ringkøbing-Skjern,Krondyr,Han,Ikke angivet,97.0
-2020,Ringkøbing-Skjern,Krondyr,Hun,Ikke angivet,102.0
 2020,Hedensted,Krondyr,Han,Kronhjort,1.0
 2020,Hedensted,Krondyr,Han,Kronhjort,3.0
 2020,Hedensted,Krondyr,Han,Kalv,4.0
 2020,Hedensted,Krondyr,Hun,Kalv,1.0
-2020,Hedensted,Krondyr,Han,Ikke angivet,2.0
-2020,Hedensted,Krondyr,Hun,Ikke angivet,5.0
-2020,Morsø,Krondyr,Hun,Ikke angivet,1.0
 2020,Skive,Krondyr,Han,Kronhjort,3.0
 2020,Skive,Krondyr,Han,Kronhjort,1.0
 2020,Skive,Krondyr,Hun,Kronhind,1.0
 2020,Skive,Krondyr,Han,Kalv,1.0
 2020,Skive,Krondyr,Hun,Kalv,6.0
-2020,Skive,Krondyr,Han,Ikke angivet,4.0
-2020,Skive,Krondyr,Hun,Ikke angivet,4.0
 2020,Thisted,Krondyr,Han,Kronhjort,52.0
 2020,Thisted,Krondyr,Han,Kronhjort,37.0
 2020,Thisted,Krondyr,Hun,Kronhind,53.0
 2020,Thisted,Krondyr,Hun,Kronhind,22.0
 2020,Thisted,Krondyr,Han,Kalv,37.0
 2020,Thisted,Krondyr,Hun,Kalv,45.0
-2020,Thisted,Krondyr,Han,Ikke angivet,29.0
-2020,Thisted,Krondyr,Hun,Ikke angivet,78.0
 2020,Viborg,Krondyr,Han,Kronhjort,49.0
 2020,Viborg,Krondyr,Han,Kronhjort,38.0
 2020,Viborg,Krondyr,Hun,Kronhind,25.0
 2020,Viborg,Krondyr,Hun,Kronhind,16.0
 2020,Viborg,Krondyr,Han,Kalv,30.0
 2020,Viborg,Krondyr,Hun,Kalv,55.0
-2020,Viborg,Krondyr,Han,Ikke angivet,31.0
-2020,Viborg,Krondyr,Hun,Ikke angivet,34.0
 2020,Brønderslev-Dronninglund,Krondyr,Han,Kronhjort,8.0
 2020,Brønderslev-Dronninglund,Krondyr,Han,Kronhjort,2.0
 2020,Brønderslev-Dronninglund,Krondyr,Hun,Kronhind,1.0
 2020,Brønderslev-Dronninglund,Krondyr,Hun,Kronhind,1.0
 2020,Brønderslev-Dronninglund,Krondyr,Han,Kalv,3.0
 2020,Brønderslev-Dronninglund,Krondyr,Hun,Kalv,3.0
-2020,Brønderslev-Dronninglund,Krondyr,Han,Ikke angivet,4.0
-2020,Brønderslev-Dronninglund,Krondyr,Hun,Ikke angivet,1.0
 2020,Frederikshavn,Krondyr,Han,Kronhjort,16.0
 2020,Frederikshavn,Krondyr,Han,Kronhjort,8.0
 2020,Frederikshavn,Krondyr,Hun,Kronhind,28.0
 2020,Frederikshavn,Krondyr,Hun,Kronhind,10.0
 2020,Frederikshavn,Krondyr,Han,Kalv,7.0
 2020,Frederikshavn,Krondyr,Hun,Kalv,17.0
-2020,Frederikshavn,Krondyr,Han,Ikke angivet,11.0
-2020,Frederikshavn,Krondyr,Hun,Ikke angivet,31.0
 2020,Vesthimmerland,Krondyr,Han,Kronhjort,4.0
 2020,Vesthimmerland,Krondyr,Han,Kronhjort,2.0
 2020,Vesthimmerland,Krondyr,Hun,Kronhind,1.0
 2020,Vesthimmerland,Krondyr,Hun,Kronhind,1.0
 2020,Vesthimmerland,Krondyr,Han,Kalv,4.0
 2020,Vesthimmerland,Krondyr,Hun,Kalv,4.0
-2020,Vesthimmerland,Krondyr,Han,Ikke angivet,4.0
-2020,Vesthimmerland,Krondyr,Hun,Ikke angivet,5.0
 2020,Rebild,Krondyr,Han,Kronhjort,15.0
 2020,Rebild,Krondyr,Han,Kronhjort,2.0
 2020,Rebild,Krondyr,Hun,Kronhind,7.0
 2020,Rebild,Krondyr,Hun,Kronhind,7.0
 2020,Rebild,Krondyr,Han,Kalv,6.0
 2020,Rebild,Krondyr,Hun,Kalv,11.0
-2020,Rebild,Krondyr,Han,Ikke angivet,7.0
-2020,Rebild,Krondyr,Hun,Ikke angivet,19.0
 2020,Mariagerfjord,Krondyr,Han,Kronhjort,9.0
 2020,Mariagerfjord,Krondyr,Han,Kronhjort,2.0
 2020,Mariagerfjord,Krondyr,Hun,Kronhind,6.0
 2020,Mariagerfjord,Krondyr,Hun,Kronhind,4.0
 2020,Mariagerfjord,Krondyr,Han,Kalv,5.0
 2020,Mariagerfjord,Krondyr,Hun,Kalv,7.0
-2020,Mariagerfjord,Krondyr,Han,Ikke angivet,13.0
-2020,Mariagerfjord,Krondyr,Hun,Ikke angivet,10.0
 2020,Jammerbugt,Krondyr,Han,Kronhjort,21.0
 2020,Jammerbugt,Krondyr,Han,Kronhjort,31.0
 2020,Jammerbugt,Krondyr,Hun,Kronhind,28.0
 2020,Jammerbugt,Krondyr,Hun,Kronhind,19.0
 2020,Jammerbugt,Krondyr,Han,Kalv,26.0
 2020,Jammerbugt,Krondyr,Hun,Kalv,32.0
-2020,Jammerbugt,Krondyr,Han,Ikke angivet,33.0
-2020,Jammerbugt,Krondyr,Hun,Ikke angivet,30.0
 2020,Aalborg,Krondyr,Han,Kronhjort,7.0
 2020,Aalborg,Krondyr,Han,Kronhjort,3.0
 2020,Aalborg,Krondyr,Hun,Kronhind,2.0
 2020,Aalborg,Krondyr,Hun,Kronhind,3.0
 2020,Aalborg,Krondyr,Han,Kalv,2.0
 2020,Aalborg,Krondyr,Hun,Kalv,6.0
-2020,Aalborg,Krondyr,Han,Ikke angivet,2.0
-2020,Aalborg,Krondyr,Hun,Ikke angivet,13.0
 2020,Hjørring,Krondyr,Han,Kronhjort,10.0
 2020,Hjørring,Krondyr,Han,Kronhjort,4.0
 2020,Hjørring,Krondyr,Hun,Kronhind,6.0
 2020,Hjørring,Krondyr,Hun,Kronhind,6.0
 2020,Hjørring,Krondyr,Han,Kalv,6.0
 2020,Hjørring,Krondyr,Hun,Kalv,9.0
-2020,Hjørring,Krondyr,Han,Ikke angivet,9.0
-2020,Hjørring,Krondyr,Hun,Ikke angivet,20.0
 2021,Lyngby-Taarbæk,Krondyr,Han,Kronhjort,1.0
 2021,Fredensborg,Krondyr,Han,Kronhjort,1.0
-2021,Fredensborg,Krondyr,Han,Ikke angivet,1.0
-2021,Fredensborg,Krondyr,Hun,Ikke angivet,1.0
 2021,Helsingør,Krondyr,Han,Kronhjort,1.0
-2021,Helsingør,Krondyr,Hun,Ikke angivet,1.0
 2021,Hillerød,Krondyr,Han,Kronhjort,3.0
-2021,Hillerød,Krondyr,Han,Ikke angivet,2.0
-2021,Hillerød,Krondyr,Hun,Ikke angivet,1.0
 2021,Greve,Krondyr,Hun,Kronhind,1.0
 2021,Greve,Krondyr,Hun,Kalv,2.0
-2021,Greve,Krondyr,Han,Ikke angivet,1.0
 2021,Køge,Krondyr,Han,Kronhjort,1.0
 2021,Køge,Krondyr,Han,Kronhjort,1.0
 2021,Halsnæs,Krondyr,Hun,Kronhind,1.0
@@ -10114,8 +9715,6 @@ Year,Kommune,Species,Køn,Type,Total
 2021,Gribskov,Krondyr,Hun,Kronhind,2.0
 2021,Gribskov,Krondyr,Han,Kalv,3.0
 2021,Gribskov,Krondyr,Hun,Kalv,6.0
-2021,Gribskov,Krondyr,Han,Ikke angivet,4.0
-2021,Gribskov,Krondyr,Hun,Ikke angivet,5.0
 2021,Odsherred,Krondyr,Han,Kronhjort,1.0
 2021,Holbæk,Krondyr,Han,Kronhjort,18.0
 2021,Holbæk,Krondyr,Han,Kronhjort,5.0
@@ -10123,55 +9722,38 @@ Year,Kommune,Species,Køn,Type,Total
 2021,Holbæk,Krondyr,Hun,Kronhind,6.0
 2021,Holbæk,Krondyr,Han,Kalv,12.0
 2021,Holbæk,Krondyr,Hun,Kalv,12.0
-2021,Holbæk,Krondyr,Han,Ikke angivet,3.0
-2021,Holbæk,Krondyr,Hun,Ikke angivet,16.0
 2021,Faxe,Krondyr,Hun,Kronhind,1.0
 2021,Faxe,Krondyr,Hun,Kalv,1.0
-2021,Faxe,Krondyr,Han,Ikke angivet,1.0
-2021,Faxe,Krondyr,Hun,Ikke angivet,1.0
 2021,Kalundborg,Krondyr,Han,Kronhjort,26.0
 2021,Kalundborg,Krondyr,Han,Kronhjort,11.0
 2021,Kalundborg,Krondyr,Hun,Kronhind,10.0
 2021,Kalundborg,Krondyr,Hun,Kronhind,11.0
 2021,Kalundborg,Krondyr,Han,Kalv,5.0
 2021,Kalundborg,Krondyr,Hun,Kalv,12.0
-2021,Kalundborg,Krondyr,Han,Ikke angivet,17.0
-2021,Kalundborg,Krondyr,Hun,Ikke angivet,17.0
 2021,Ringsted,Krondyr,Hun,Kronhind,1.0
 2021,Slagelse,Krondyr,Han,Kronhjort,1.0
 2021,Slagelse,Krondyr,Hun,Kronhind,1.0
 2021,Slagelse,Krondyr,Han,Kalv,1.0
-2021,Slagelse,Krondyr,Han,Ikke angivet,1.0
-2021,Slagelse,Krondyr,Hun,Ikke angivet,1.0
 2021,Sorø,Krondyr,Han,Kronhjort,14.0
 2021,Sorø,Krondyr,Hun,Kronhind,2.0
 2021,Sorø,Krondyr,Hun,Kronhind,2.0
 2021,Sorø,Krondyr,Han,Kalv,3.0
 2021,Sorø,Krondyr,Hun,Kalv,2.0
-2021,Sorø,Krondyr,Han,Ikke angivet,1.0
-2021,Sorø,Krondyr,Hun,Ikke angivet,6.0
 2021,Lejre,Krondyr,Han,Kronhjort,1.0
-2021,Lejre,Krondyr,Han,Ikke angivet,2.0
-2021,Lejre,Krondyr,Hun,Ikke angivet,1.0
 2021,Næstved,Krondyr,Han,Kronhjort,2.0
 2021,Næstved,Krondyr,Hun,Kronhind,1.0
 2021,Næstved,Krondyr,Hun,Kronhind,1.0
 2021,Næstved,Krondyr,Han,Kalv,2.0
 2021,Næstved,Krondyr,Hun,Kalv,5.0
-2021,Næstved,Krondyr,Han,Ikke angivet,1.0
-2021,Næstved,Krondyr,Hun,Ikke angivet,1.0
 2021,Vordingborg,Krondyr,Han,Kronhjort,1.0
 2021,Vordingborg,Krondyr,Han,Kronhjort,1.0
 2021,Middelfart,Krondyr,Han,Kronhjort,1.0
 2021,Middelfart,Krondyr,Hun,Kronhind,1.0
 2021,Middelfart,Krondyr,Hun,Kronhind,1.0
-2021,Middelfart,Krondyr,Han,Ikke angivet,2.0
-2021,Middelfart,Krondyr,Hun,Ikke angivet,3.0
 2021,Assens,Krondyr,Han,Kronhjort,1.0
 2021,Svendborg,Krondyr,Han,Kronhjort,1.0
 2021,Svendborg,Krondyr,Hun,Kronhind,1.0
 2021,Svendborg,Krondyr,Han,Kalv,1.0
-2021,Svendborg,Krondyr,Han,Ikke angivet,1.0
 2021,Nordfyn,Krondyr,Hun,Kronhind,1.0
 2021,Nordfyn,Krondyr,Hun,Kalv,1.0
 2021,Haderslev,Krondyr,Han,Kronhjort,14.0
@@ -10180,293 +9762,216 @@ Year,Kommune,Species,Køn,Type,Total
 2021,Haderslev,Krondyr,Hun,Kronhind,14.0
 2021,Haderslev,Krondyr,Han,Kalv,19.0
 2021,Haderslev,Krondyr,Hun,Kalv,22.0
-2021,Haderslev,Krondyr,Han,Ikke angivet,4.0
-2021,Haderslev,Krondyr,Hun,Ikke angivet,13.0
 2021,Billund,Krondyr,Han,Kronhjort,67.0
 2021,Billund,Krondyr,Han,Kronhjort,39.0
 2021,Billund,Krondyr,Hun,Kronhind,55.0
 2021,Billund,Krondyr,Hun,Kronhind,32.0
 2021,Billund,Krondyr,Han,Kalv,32.0
 2021,Billund,Krondyr,Hun,Kalv,63.0
-2021,Billund,Krondyr,Han,Ikke angivet,31.0
-2021,Billund,Krondyr,Hun,Ikke angivet,50.0
 2021,Sønderborg,Krondyr,Han,Kronhjort,1.0
 2021,Sønderborg,Krondyr,Hun,Kronhind,1.0
 2021,Sønderborg,Krondyr,Han,Kalv,1.0
-2021,Sønderborg,Krondyr,Hun,Ikke angivet,2.0
 2021,Tønder,Krondyr,Han,Kronhjort,51.0
 2021,Tønder,Krondyr,Han,Kronhjort,35.0
 2021,Tønder,Krondyr,Hun,Kronhind,35.0
 2021,Tønder,Krondyr,Hun,Kronhind,21.0
 2021,Tønder,Krondyr,Han,Kalv,22.0
 2021,Tønder,Krondyr,Hun,Kalv,33.0
-2021,Tønder,Krondyr,Han,Ikke angivet,30.0
-2021,Tønder,Krondyr,Hun,Ikke angivet,23.0
 2021,Esbjerg,Krondyr,Han,Kronhjort,16.0
 2021,Esbjerg,Krondyr,Han,Kronhjort,13.0
 2021,Esbjerg,Krondyr,Hun,Kronhind,8.0
 2021,Esbjerg,Krondyr,Hun,Kronhind,6.0
 2021,Esbjerg,Krondyr,Han,Kalv,9.0
 2021,Esbjerg,Krondyr,Hun,Kalv,12.0
-2021,Esbjerg,Krondyr,Han,Ikke angivet,12.0
-2021,Esbjerg,Krondyr,Hun,Ikke angivet,8.0
 2021,Fanø,Krondyr,Han,Kronhjort,1.0
-2021,Fanø,Krondyr,Han,Ikke angivet,1.0
 2021,Varde,Krondyr,Han,Kronhjort,103.0
 2021,Varde,Krondyr,Han,Kronhjort,61.0
 2021,Varde,Krondyr,Hun,Kronhind,96.0
 2021,Varde,Krondyr,Hun,Kronhind,46.0
 2021,Varde,Krondyr,Han,Kalv,41.0
 2021,Varde,Krondyr,Hun,Kalv,85.0
-2021,Varde,Krondyr,Han,Ikke angivet,54.0
-2021,Varde,Krondyr,Hun,Ikke angivet,82.0
 2021,Vejen,Krondyr,Han,Kronhjort,38.0
 2021,Vejen,Krondyr,Han,Kronhjort,14.0
 2021,Vejen,Krondyr,Hun,Kronhind,21.0
 2021,Vejen,Krondyr,Hun,Kronhind,14.0
 2021,Vejen,Krondyr,Han,Kalv,18.0
 2021,Vejen,Krondyr,Hun,Kalv,24.0
-2021,Vejen,Krondyr,Han,Ikke angivet,11.0
-2021,Vejen,Krondyr,Hun,Ikke angivet,24.0
 2021,Aabenraa,Krondyr,Han,Kronhjort,23.0
 2021,Aabenraa,Krondyr,Han,Kronhjort,20.0
 2021,Aabenraa,Krondyr,Hun,Kronhind,14.0
 2021,Aabenraa,Krondyr,Hun,Kronhind,10.0
 2021,Aabenraa,Krondyr,Han,Kalv,8.0
 2021,Aabenraa,Krondyr,Hun,Kalv,9.0
-2021,Aabenraa,Krondyr,Han,Ikke angivet,5.0
-2021,Aabenraa,Krondyr,Hun,Ikke angivet,11.0
-2021,Fredericia,Krondyr,Han,Ikke angivet,1.0
 2021,Horsens,Krondyr,Han,Kronhjort,8.0
 2021,Horsens,Krondyr,Han,Kronhjort,4.0
 2021,Horsens,Krondyr,Hun,Kronhind,4.0
 2021,Horsens,Krondyr,Han,Kalv,4.0
 2021,Horsens,Krondyr,Hun,Kalv,8.0
-2021,Horsens,Krondyr,Han,Ikke angivet,7.0
-2021,Horsens,Krondyr,Hun,Ikke angivet,15.0
 2021,Kolding,Krondyr,Han,Kronhjort,7.0
 2021,Kolding,Krondyr,Han,Kronhjort,2.0
 2021,Kolding,Krondyr,Hun,Kronhind,6.0
 2021,Kolding,Krondyr,Hun,Kronhind,3.0
 2021,Kolding,Krondyr,Hun,Kalv,4.0
-2021,Kolding,Krondyr,Han,Ikke angivet,2.0
-2021,Kolding,Krondyr,Hun,Ikke angivet,1.0
 2021,Vejle,Krondyr,Han,Kronhjort,56.0
 2021,Vejle,Krondyr,Han,Kronhjort,24.0
 2021,Vejle,Krondyr,Hun,Kronhind,15.0
 2021,Vejle,Krondyr,Hun,Kronhind,11.0
 2021,Vejle,Krondyr,Han,Kalv,11.0
 2021,Vejle,Krondyr,Hun,Kalv,22.0
-2021,Vejle,Krondyr,Han,Ikke angivet,21.0
-2021,Vejle,Krondyr,Hun,Ikke angivet,23.0
 2021,Herning,Krondyr,Han,Kronhjort,114.0
 2021,Herning,Krondyr,Han,Kronhjort,74.0
 2021,Herning,Krondyr,Hun,Kronhind,75.0
 2021,Herning,Krondyr,Hun,Kronhind,32.0
 2021,Herning,Krondyr,Han,Kalv,54.0
 2021,Herning,Krondyr,Hun,Kalv,94.0
-2021,Herning,Krondyr,Han,Ikke angivet,48.0
-2021,Herning,Krondyr,Hun,Ikke angivet,67.0
 2021,Holstebro,Krondyr,Han,Kronhjort,58.0
 2021,Holstebro,Krondyr,Han,Kronhjort,32.0
 2021,Holstebro,Krondyr,Hun,Kronhind,54.0
 2021,Holstebro,Krondyr,Hun,Kronhind,20.0
 2021,Holstebro,Krondyr,Han,Kalv,32.0
 2021,Holstebro,Krondyr,Hun,Kalv,36.0
-2021,Holstebro,Krondyr,Han,Ikke angivet,35.0
-2021,Holstebro,Krondyr,Hun,Ikke angivet,39.0
 2021,Lemvig,Krondyr,Han,Kronhjort,35.0
 2021,Lemvig,Krondyr,Han,Kronhjort,26.0
 2021,Lemvig,Krondyr,Hun,Kronhind,22.0
 2021,Lemvig,Krondyr,Hun,Kronhind,9.0
 2021,Lemvig,Krondyr,Han,Kalv,14.0
 2021,Lemvig,Krondyr,Hun,Kalv,19.0
-2021,Lemvig,Krondyr,Han,Ikke angivet,15.0
-2021,Lemvig,Krondyr,Hun,Ikke angivet,13.0
 2021,Struer,Krondyr,Han,Kronhjort,8.0
 2021,Struer,Krondyr,Han,Kronhjort,3.0
 2021,Struer,Krondyr,Hun,Kronhind,3.0
 2021,Struer,Krondyr,Han,Kalv,1.0
-2021,Struer,Krondyr,Han,Ikke angivet,2.0
-2021,Struer,Krondyr,Hun,Ikke angivet,6.0
 2021,Syddjurs,Krondyr,Han,Kronhjort,26.0
 2021,Syddjurs,Krondyr,Han,Kronhjort,23.0
 2021,Syddjurs,Krondyr,Hun,Kronhind,26.0
 2021,Syddjurs,Krondyr,Hun,Kronhind,17.0
 2021,Syddjurs,Krondyr,Han,Kalv,16.0
 2021,Syddjurs,Krondyr,Hun,Kalv,42.0
-2021,Syddjurs,Krondyr,Han,Ikke angivet,13.0
-2021,Syddjurs,Krondyr,Hun,Ikke angivet,30.0
 2021,Norddjurs,Krondyr,Han,Kronhjort,66.0
 2021,Norddjurs,Krondyr,Han,Kronhjort,59.0
 2021,Norddjurs,Krondyr,Hun,Kronhind,73.0
 2021,Norddjurs,Krondyr,Hun,Kronhind,35.0
 2021,Norddjurs,Krondyr,Han,Kalv,54.0
 2021,Norddjurs,Krondyr,Hun,Kalv,107.0
-2021,Norddjurs,Krondyr,Han,Ikke angivet,36.0
-2021,Norddjurs,Krondyr,Hun,Ikke angivet,54.0
 2021,Favrskov,Krondyr,Han,Kronhjort,17.0
 2021,Favrskov,Krondyr,Han,Kronhjort,5.0
 2021,Favrskov,Krondyr,Hun,Kronhind,3.0
 2021,Favrskov,Krondyr,Hun,Kronhind,1.0
 2021,Favrskov,Krondyr,Han,Kalv,1.0
 2021,Favrskov,Krondyr,Hun,Kalv,2.0
-2021,Favrskov,Krondyr,Han,Ikke angivet,9.0
-2021,Favrskov,Krondyr,Hun,Ikke angivet,9.0
 2021,Odder,Krondyr,Han,Kronhjort,4.0
 2021,Odder,Krondyr,Han,Kronhjort,1.0
 2021,Odder,Krondyr,Hun,Kronhind,3.0
 2021,Odder,Krondyr,Hun,Kronhind,1.0
 2021,Odder,Krondyr,Hun,Kalv,4.0
-2021,Odder,Krondyr,Han,Ikke angivet,5.0
-2021,Odder,Krondyr,Hun,Ikke angivet,1.0
 2021,Randers,Krondyr,Han,Kronhjort,9.0
 2021,Randers,Krondyr,Han,Kronhjort,3.0
 2021,Randers,Krondyr,Hun,Kronhind,3.0
 2021,Randers,Krondyr,Hun,Kronhind,1.0
 2021,Randers,Krondyr,Han,Kalv,4.0
 2021,Randers,Krondyr,Hun,Kalv,1.0
-2021,Randers,Krondyr,Han,Ikke angivet,4.0
-2021,Randers,Krondyr,Hun,Ikke angivet,5.0
 2021,Silkeborg,Krondyr,Han,Kronhjort,34.0
 2021,Silkeborg,Krondyr,Han,Kronhjort,28.0
 2021,Silkeborg,Krondyr,Hun,Kronhind,43.0
 2021,Silkeborg,Krondyr,Hun,Kronhind,25.0
 2021,Silkeborg,Krondyr,Han,Kalv,27.0
 2021,Silkeborg,Krondyr,Hun,Kalv,53.0
-2021,Silkeborg,Krondyr,Han,Ikke angivet,32.0
-2021,Silkeborg,Krondyr,Hun,Ikke angivet,51.0
 2021,Skanderborg,Krondyr,Han,Kronhjort,10.0
 2021,Skanderborg,Krondyr,Han,Kronhjort,3.0
 2021,Skanderborg,Krondyr,Hun,Kronhind,4.0
 2021,Skanderborg,Krondyr,Hun,Kronhind,2.0
 2021,Skanderborg,Krondyr,Han,Kalv,1.0
 2021,Skanderborg,Krondyr,Hun,Kalv,8.0
-2021,Skanderborg,Krondyr,Hun,Ikke angivet,5.0
 2021,Aarhus,Krondyr,Han,Kronhjort,2.0
 2021,Aarhus,Krondyr,Han,Kronhjort,1.0
 2021,Aarhus,Krondyr,Hun,Kronhind,10.0
 2021,Aarhus,Krondyr,Han,Kalv,7.0
-2021,Aarhus,Krondyr,Han,Ikke angivet,3.0
-2021,Aarhus,Krondyr,Hun,Ikke angivet,2.0
 2021,Ikast-Brande,Krondyr,Han,Kronhjort,76.0
 2021,Ikast-Brande,Krondyr,Han,Kronhjort,68.0
 2021,Ikast-Brande,Krondyr,Hun,Kronhind,84.0
 2021,Ikast-Brande,Krondyr,Hun,Kronhind,52.0
 2021,Ikast-Brande,Krondyr,Han,Kalv,50.0
 2021,Ikast-Brande,Krondyr,Hun,Kalv,90.0
-2021,Ikast-Brande,Krondyr,Han,Ikke angivet,41.0
-2021,Ikast-Brande,Krondyr,Hun,Ikke angivet,57.0
 2021,Ringkøbing-Skjern,Krondyr,Han,Kronhjort,123.0
 2021,Ringkøbing-Skjern,Krondyr,Han,Kronhjort,69.0
 2021,Ringkøbing-Skjern,Krondyr,Hun,Kronhind,75.0
 2021,Ringkøbing-Skjern,Krondyr,Hun,Kronhind,52.0
 2021,Ringkøbing-Skjern,Krondyr,Han,Kalv,42.0
 2021,Ringkøbing-Skjern,Krondyr,Hun,Kalv,95.0
-2021,Ringkøbing-Skjern,Krondyr,Han,Ikke angivet,70.0
-2021,Ringkøbing-Skjern,Krondyr,Hun,Ikke angivet,87.0
 2021,Hedensted,Krondyr,Han,Kronhjort,1.0
 2021,Hedensted,Krondyr,Hun,Kronhind,2.0
 2021,Hedensted,Krondyr,Han,Kalv,2.0
 2021,Hedensted,Krondyr,Hun,Kalv,2.0
-2021,Hedensted,Krondyr,Han,Ikke angivet,2.0
 2021,Morsø,Krondyr,Hun,Kalv,1.0
 2021,Skive,Krondyr,Han,Kronhjort,6.0
 2021,Skive,Krondyr,Han,Kronhjort,1.0
 2021,Skive,Krondyr,Hun,Kronhind,1.0
 2021,Skive,Krondyr,Han,Kalv,4.0
 2021,Skive,Krondyr,Hun,Kalv,2.0
-2021,Skive,Krondyr,Han,Ikke angivet,2.0
-2021,Skive,Krondyr,Hun,Ikke angivet,2.0
 2021,Thisted,Krondyr,Han,Kronhjort,60.0
 2021,Thisted,Krondyr,Han,Kronhjort,35.0
 2021,Thisted,Krondyr,Hun,Kronhind,67.0
 2021,Thisted,Krondyr,Hun,Kronhind,43.0
 2021,Thisted,Krondyr,Han,Kalv,49.0
 2021,Thisted,Krondyr,Hun,Kalv,67.0
-2021,Thisted,Krondyr,Han,Ikke angivet,29.0
-2021,Thisted,Krondyr,Hun,Ikke angivet,50.0
 2021,Viborg,Krondyr,Han,Kronhjort,48.0
 2021,Viborg,Krondyr,Han,Kronhjort,31.0
 2021,Viborg,Krondyr,Hun,Kronhind,51.0
 2021,Viborg,Krondyr,Hun,Kronhind,18.0
 2021,Viborg,Krondyr,Han,Kalv,25.0
 2021,Viborg,Krondyr,Hun,Kalv,47.0
-2021,Viborg,Krondyr,Han,Ikke angivet,29.0
-2021,Viborg,Krondyr,Hun,Ikke angivet,47.0
 2021,Brønderslev-Dronninglund,Krondyr,Han,Kronhjort,14.0
 2021,Brønderslev-Dronninglund,Krondyr,Han,Kronhjort,5.0
 2021,Brønderslev-Dronninglund,Krondyr,Hun,Kronhind,6.0
 2021,Brønderslev-Dronninglund,Krondyr,Hun,Kronhind,3.0
 2021,Brønderslev-Dronninglund,Krondyr,Hun,Kalv,3.0
-2021,Brønderslev-Dronninglund,Krondyr,Han,Ikke angivet,5.0
-2021,Brønderslev-Dronninglund,Krondyr,Hun,Ikke angivet,1.0
 2021,Frederikshavn,Krondyr,Han,Kronhjort,19.0
 2021,Frederikshavn,Krondyr,Han,Kronhjort,14.0
 2021,Frederikshavn,Krondyr,Hun,Kronhind,22.0
 2021,Frederikshavn,Krondyr,Hun,Kronhind,15.0
 2021,Frederikshavn,Krondyr,Han,Kalv,15.0
 2021,Frederikshavn,Krondyr,Hun,Kalv,18.0
-2021,Frederikshavn,Krondyr,Han,Ikke angivet,5.0
-2021,Frederikshavn,Krondyr,Hun,Ikke angivet,14.0
 2021,Vesthimmerland,Krondyr,Han,Kronhjort,7.0
 2021,Vesthimmerland,Krondyr,Han,Kronhjort,5.0
 2021,Vesthimmerland,Krondyr,Hun,Kronhind,6.0
 2021,Vesthimmerland,Krondyr,Hun,Kronhind,1.0
 2021,Vesthimmerland,Krondyr,Han,Kalv,5.0
 2021,Vesthimmerland,Krondyr,Hun,Kalv,6.0
-2021,Vesthimmerland,Krondyr,Han,Ikke angivet,7.0
-2021,Vesthimmerland,Krondyr,Hun,Ikke angivet,12.0
 2021,Rebild,Krondyr,Han,Kronhjort,21.0
 2021,Rebild,Krondyr,Han,Kronhjort,12.0
 2021,Rebild,Krondyr,Hun,Kronhind,10.0
 2021,Rebild,Krondyr,Hun,Kronhind,4.0
 2021,Rebild,Krondyr,Han,Kalv,6.0
 2021,Rebild,Krondyr,Hun,Kalv,10.0
-2021,Rebild,Krondyr,Han,Ikke angivet,8.0
-2021,Rebild,Krondyr,Hun,Ikke angivet,7.0
 2021,Mariagerfjord,Krondyr,Han,Kronhjort,11.0
 2021,Mariagerfjord,Krondyr,Han,Kronhjort,6.0
 2021,Mariagerfjord,Krondyr,Hun,Kronhind,3.0
 2021,Mariagerfjord,Krondyr,Hun,Kronhind,1.0
 2021,Mariagerfjord,Krondyr,Hun,Kalv,5.0
-2021,Mariagerfjord,Krondyr,Han,Ikke angivet,6.0
-2021,Mariagerfjord,Krondyr,Hun,Ikke angivet,4.0
 2021,Jammerbugt,Krondyr,Han,Kronhjort,33.0
 2021,Jammerbugt,Krondyr,Han,Kronhjort,21.0
 2021,Jammerbugt,Krondyr,Hun,Kronhind,26.0
 2021,Jammerbugt,Krondyr,Hun,Kronhind,17.0
 2021,Jammerbugt,Krondyr,Han,Kalv,22.0
 2021,Jammerbugt,Krondyr,Hun,Kalv,44.0
-2021,Jammerbugt,Krondyr,Han,Ikke angivet,23.0
-2021,Jammerbugt,Krondyr,Hun,Ikke angivet,25.0
 2021,Aalborg,Krondyr,Han,Kronhjort,8.0
 2021,Aalborg,Krondyr,Han,Kronhjort,5.0
 2021,Aalborg,Krondyr,Hun,Kronhind,5.0
 2021,Aalborg,Krondyr,Hun,Kronhind,1.0
 2021,Aalborg,Krondyr,Han,Kalv,2.0
 2021,Aalborg,Krondyr,Hun,Kalv,5.0
-2021,Aalborg,Krondyr,Han,Ikke angivet,2.0
-2021,Aalborg,Krondyr,Hun,Ikke angivet,9.0
 2021,Hjørring,Krondyr,Han,Kronhjort,18.0
 2021,Hjørring,Krondyr,Han,Kronhjort,14.0
 2021,Hjørring,Krondyr,Hun,Kronhind,8.0
 2021,Hjørring,Krondyr,Hun,Kronhind,5.0
 2021,Hjørring,Krondyr,Han,Kalv,4.0
 2021,Hjørring,Krondyr,Hun,Kalv,7.0
-2021,Hjørring,Krondyr,Han,Ikke angivet,4.0
-2021,Hjørring,Krondyr,Hun,Ikke angivet,9.0
 2022,Brøndby,Krondyr,Han,Kronhjort,2.0
 2022,Brøndby,Krondyr,Han,Kronhjort,1.0
 2022,Lyngby-Taarbæk,Krondyr,Han,Kronhjort,1.0
 2022,Fredensborg,Krondyr,Han,Kronhjort,1.0
-2022,Fredensborg,Krondyr,Han,Ikke angivet,1.0
 2022,Hillerød,Krondyr,Han,Kronhjort,1.0
-2022,Hillerød,Krondyr,Han,Ikke angivet,1.0
-2022,Hillerød,Krondyr,Hun,Ikke angivet,1.0
 2022,Frederikssund,Krondyr,Han,Kronhjort,1.0
 2022,Frederikssund,Krondyr,Hun,Kalv,1.0
-2022,Frederikssund,Krondyr,Hun,Ikke angivet,2.0
 2022,Greve,Krondyr,Han,Kronhjort,1.0
 2022,Køge,Krondyr,Han,Kronhjort,2.0
 2022,Køge,Krondyr,Han,Kalv,1.0
@@ -10477,20 +9982,14 @@ Year,Kommune,Species,Køn,Type,Total
 2022,Gribskov,Krondyr,Hun,Kronhind,8.0
 2022,Gribskov,Krondyr,Han,Kalv,1.0
 2022,Gribskov,Krondyr,Hun,Kalv,6.0
-2022,Gribskov,Krondyr,Han,Ikke angivet,7.0
-2022,Gribskov,Krondyr,Hun,Ikke angivet,11.0
 2022,Odsherred,Krondyr,Hun,Kronhind,1.0
 2022,Odsherred,Krondyr,Hun,Kalv,1.0
-2022,Odsherred,Krondyr,Han,Ikke angivet,1.0
-2022,Odsherred,Krondyr,Hun,Ikke angivet,1.0
 2022,Holbæk,Krondyr,Han,Kronhjort,9.0
 2022,Holbæk,Krondyr,Han,Kronhjort,4.0
 2022,Holbæk,Krondyr,Hun,Kronhind,12.0
 2022,Holbæk,Krondyr,Hun,Kronhind,5.0
 2022,Holbæk,Krondyr,Han,Kalv,4.0
 2022,Holbæk,Krondyr,Hun,Kalv,8.0
-2022,Holbæk,Krondyr,Han,Ikke angivet,7.0
-2022,Holbæk,Krondyr,Hun,Ikke angivet,6.0
 2022,Faxe,Krondyr,Han,Kronhjort,2.0
 2022,Faxe,Krondyr,Han,Kalv,1.0
 2022,Faxe,Krondyr,Hun,Kalv,4.0
@@ -10500,39 +9999,29 @@ Year,Kommune,Species,Køn,Type,Total
 2022,Kalundborg,Krondyr,Hun,Kronhind,17.0
 2022,Kalundborg,Krondyr,Han,Kalv,6.0
 2022,Kalundborg,Krondyr,Hun,Kalv,23.0
-2022,Kalundborg,Krondyr,Han,Ikke angivet,14.0
-2022,Kalundborg,Krondyr,Hun,Ikke angivet,24.0
 2022,Ringsted,Krondyr,Han,Kronhjort,1.0
 2022,Ringsted,Krondyr,Han,Kronhjort,1.0
 2022,Slagelse,Krondyr,Han,Kronhjort,2.0
 2022,Slagelse,Krondyr,Hun,Kronhind,2.0
 2022,Slagelse,Krondyr,Han,Kalv,2.0
 2022,Slagelse,Krondyr,Hun,Kalv,3.0
-2022,Slagelse,Krondyr,Hun,Ikke angivet,1.0
 2022,Sorø,Krondyr,Han,Kronhjort,15.0
 2022,Sorø,Krondyr,Han,Kronhjort,8.0
 2022,Sorø,Krondyr,Hun,Kronhind,8.0
 2022,Sorø,Krondyr,Han,Kalv,3.0
 2022,Sorø,Krondyr,Hun,Kalv,8.0
-2022,Sorø,Krondyr,Han,Ikke angivet,4.0
-2022,Sorø,Krondyr,Hun,Ikke angivet,6.0
 2022,Lejre,Krondyr,Han,Kronhjort,1.0
 2022,Lejre,Krondyr,Han,Kronhjort,1.0
-2022,Lejre,Krondyr,Han,Ikke angivet,2.0
 2022,Næstved,Krondyr,Han,Kronhjort,6.0
 2022,Næstved,Krondyr,Han,Kronhjort,1.0
 2022,Næstved,Krondyr,Hun,Kronhind,3.0
 2022,Næstved,Krondyr,Hun,Kronhind,1.0
 2022,Næstved,Krondyr,Han,Kalv,2.0
 2022,Næstved,Krondyr,Hun,Kalv,3.0
-2022,Næstved,Krondyr,Han,Ikke angivet,2.0
-2022,Næstved,Krondyr,Hun,Ikke angivet,2.0
 2022,Vordingborg,Krondyr,Han,Kronhjort,1.0
 2022,Middelfart,Krondyr,Han,Kalv,5.0
 2022,Middelfart,Krondyr,Hun,Kalv,1.0
 2022,Assens,Krondyr,Han,Kronhjort,1.0
-2022,Assens,Krondyr,Han,Ikke angivet,1.0
-2022,Assens,Krondyr,Hun,Ikke angivet,4.0
 2022,Nyborg,Krondyr,Han,Kronhjort,1.0
 2022,Odense,Krondyr,Hun,Kronhind,1.0
 2022,Svendborg,Krondyr,Han,Kronhjort,2.0
@@ -10549,287 +10038,215 @@ Year,Kommune,Species,Køn,Type,Total
 2022,Haderslev,Krondyr,Hun,Kronhind,14.0
 2022,Haderslev,Krondyr,Han,Kalv,8.0
 2022,Haderslev,Krondyr,Hun,Kalv,15.0
-2022,Haderslev,Krondyr,Han,Ikke angivet,11.0
-2022,Haderslev,Krondyr,Hun,Ikke angivet,11.0
 2022,Billund,Krondyr,Han,Kronhjort,69.0
 2022,Billund,Krondyr,Han,Kronhjort,63.0
 2022,Billund,Krondyr,Hun,Kronhind,66.0
 2022,Billund,Krondyr,Hun,Kronhind,29.0
 2022,Billund,Krondyr,Han,Kalv,29.0
 2022,Billund,Krondyr,Hun,Kalv,62.0
-2022,Billund,Krondyr,Han,Ikke angivet,37.0
-2022,Billund,Krondyr,Hun,Ikke angivet,44.0
 2022,Sønderborg,Krondyr,Hun,Kronhind,1.0
 2022,Sønderborg,Krondyr,Hun,Kalv,1.0
-2022,Sønderborg,Krondyr,Han,Ikke angivet,1.0
 2022,Tønder,Krondyr,Han,Kronhjort,52.0
 2022,Tønder,Krondyr,Han,Kronhjort,35.0
 2022,Tønder,Krondyr,Hun,Kronhind,37.0
 2022,Tønder,Krondyr,Hun,Kronhind,36.0
 2022,Tønder,Krondyr,Han,Kalv,44.0
 2022,Tønder,Krondyr,Hun,Kalv,40.0
-2022,Tønder,Krondyr,Han,Ikke angivet,18.0
-2022,Tønder,Krondyr,Hun,Ikke angivet,42.0
 2022,Esbjerg,Krondyr,Han,Kronhjort,27.0
 2022,Esbjerg,Krondyr,Han,Kronhjort,9.0
 2022,Esbjerg,Krondyr,Hun,Kronhind,13.0
 2022,Esbjerg,Krondyr,Hun,Kronhind,6.0
 2022,Esbjerg,Krondyr,Han,Kalv,7.0
 2022,Esbjerg,Krondyr,Hun,Kalv,10.0
-2022,Esbjerg,Krondyr,Han,Ikke angivet,10.0
-2022,Esbjerg,Krondyr,Hun,Ikke angivet,7.0
 2022,Varde,Krondyr,Han,Kronhjort,113.0
 2022,Varde,Krondyr,Han,Kronhjort,78.0
 2022,Varde,Krondyr,Hun,Kronhind,89.0
 2022,Varde,Krondyr,Hun,Kronhind,38.0
 2022,Varde,Krondyr,Han,Kalv,43.0
 2022,Varde,Krondyr,Hun,Kalv,87.0
-2022,Varde,Krondyr,Han,Ikke angivet,59.0
-2022,Varde,Krondyr,Hun,Ikke angivet,66.0
 2022,Vejen,Krondyr,Han,Kronhjort,45.0
 2022,Vejen,Krondyr,Han,Kronhjort,29.0
 2022,Vejen,Krondyr,Hun,Kronhind,26.0
 2022,Vejen,Krondyr,Hun,Kronhind,2.0
 2022,Vejen,Krondyr,Han,Kalv,9.0
 2022,Vejen,Krondyr,Hun,Kalv,33.0
-2022,Vejen,Krondyr,Han,Ikke angivet,22.0
-2022,Vejen,Krondyr,Hun,Ikke angivet,9.0
 2022,Aabenraa,Krondyr,Han,Kronhjort,27.0
 2022,Aabenraa,Krondyr,Han,Kronhjort,21.0
 2022,Aabenraa,Krondyr,Hun,Kronhind,20.0
 2022,Aabenraa,Krondyr,Hun,Kronhind,7.0
 2022,Aabenraa,Krondyr,Han,Kalv,11.0
 2022,Aabenraa,Krondyr,Hun,Kalv,21.0
-2022,Aabenraa,Krondyr,Han,Ikke angivet,10.0
-2022,Aabenraa,Krondyr,Hun,Ikke angivet,27.0
 2022,Fredericia,Krondyr,Han,Kronhjort,1.0
 2022,Horsens,Krondyr,Han,Kronhjort,9.0
 2022,Horsens,Krondyr,Han,Kronhjort,6.0
 2022,Horsens,Krondyr,Hun,Kronhind,3.0
 2022,Horsens,Krondyr,Hun,Kronhind,1.0
 2022,Horsens,Krondyr,Hun,Kalv,5.0
-2022,Horsens,Krondyr,Han,Ikke angivet,5.0
-2022,Horsens,Krondyr,Hun,Ikke angivet,4.0
 2022,Kolding,Krondyr,Han,Kronhjort,8.0
 2022,Kolding,Krondyr,Han,Kronhjort,5.0
 2022,Kolding,Krondyr,Hun,Kronhind,6.0
 2022,Kolding,Krondyr,Hun,Kronhind,1.0
 2022,Kolding,Krondyr,Han,Kalv,1.0
 2022,Kolding,Krondyr,Hun,Kalv,5.0
-2022,Kolding,Krondyr,Han,Ikke angivet,4.0
-2022,Kolding,Krondyr,Hun,Ikke angivet,8.0
 2022,Vejle,Krondyr,Han,Kronhjort,63.0
 2022,Vejle,Krondyr,Han,Kronhjort,21.0
 2022,Vejle,Krondyr,Hun,Kronhind,39.0
 2022,Vejle,Krondyr,Hun,Kronhind,11.0
 2022,Vejle,Krondyr,Han,Kalv,20.0
 2022,Vejle,Krondyr,Hun,Kalv,30.0
-2022,Vejle,Krondyr,Han,Ikke angivet,37.0
-2022,Vejle,Krondyr,Hun,Ikke angivet,31.0
 2022,Herning,Krondyr,Han,Kronhjort,129.0
 2022,Herning,Krondyr,Han,Kronhjort,101.0
 2022,Herning,Krondyr,Hun,Kronhind,81.0
 2022,Herning,Krondyr,Hun,Kronhind,54.0
 2022,Herning,Krondyr,Han,Kalv,50.0
 2022,Herning,Krondyr,Hun,Kalv,110.0
-2022,Herning,Krondyr,Han,Ikke angivet,73.0
-2022,Herning,Krondyr,Hun,Ikke angivet,95.0
 2022,Holstebro,Krondyr,Han,Kronhjort,65.0
 2022,Holstebro,Krondyr,Han,Kronhjort,35.0
 2022,Holstebro,Krondyr,Hun,Kronhind,52.0
 2022,Holstebro,Krondyr,Hun,Kronhind,21.0
 2022,Holstebro,Krondyr,Han,Kalv,28.0
 2022,Holstebro,Krondyr,Hun,Kalv,33.0
-2022,Holstebro,Krondyr,Han,Ikke angivet,30.0
-2022,Holstebro,Krondyr,Hun,Ikke angivet,43.0
 2022,Lemvig,Krondyr,Han,Kronhjort,24.0
 2022,Lemvig,Krondyr,Han,Kronhjort,13.0
 2022,Lemvig,Krondyr,Hun,Kronhind,16.0
 2022,Lemvig,Krondyr,Hun,Kronhind,7.0
 2022,Lemvig,Krondyr,Han,Kalv,11.0
 2022,Lemvig,Krondyr,Hun,Kalv,23.0
-2022,Lemvig,Krondyr,Han,Ikke angivet,19.0
-2022,Lemvig,Krondyr,Hun,Ikke angivet,21.0
 2022,Struer,Krondyr,Han,Kronhjort,8.0
 2022,Struer,Krondyr,Han,Kronhjort,3.0
 2022,Struer,Krondyr,Hun,Kronhind,6.0
 2022,Struer,Krondyr,Hun,Kronhind,2.0
 2022,Struer,Krondyr,Han,Kalv,3.0
 2022,Struer,Krondyr,Hun,Kalv,6.0
-2022,Struer,Krondyr,Han,Ikke angivet,2.0
-2022,Struer,Krondyr,Hun,Ikke angivet,9.0
 2022,Syddjurs,Krondyr,Han,Kronhjort,32.0
 2022,Syddjurs,Krondyr,Han,Kronhjort,38.0
 2022,Syddjurs,Krondyr,Hun,Kronhind,19.0
 2022,Syddjurs,Krondyr,Hun,Kronhind,24.0
 2022,Syddjurs,Krondyr,Han,Kalv,18.0
 2022,Syddjurs,Krondyr,Hun,Kalv,32.0
-2022,Syddjurs,Krondyr,Han,Ikke angivet,26.0
-2022,Syddjurs,Krondyr,Hun,Ikke angivet,20.0
 2022,Norddjurs,Krondyr,Han,Kronhjort,76.0
 2022,Norddjurs,Krondyr,Han,Kronhjort,66.0
 2022,Norddjurs,Krondyr,Hun,Kronhind,62.0
 2022,Norddjurs,Krondyr,Hun,Kronhind,35.0
 2022,Norddjurs,Krondyr,Han,Kalv,48.0
 2022,Norddjurs,Krondyr,Hun,Kalv,116.0
-2022,Norddjurs,Krondyr,Han,Ikke angivet,67.0
-2022,Norddjurs,Krondyr,Hun,Ikke angivet,79.0
 2022,Favrskov,Krondyr,Han,Kronhjort,15.0
 2022,Favrskov,Krondyr,Han,Kronhjort,6.0
 2022,Favrskov,Krondyr,Hun,Kronhind,9.0
 2022,Favrskov,Krondyr,Hun,Kronhind,4.0
 2022,Favrskov,Krondyr,Han,Kalv,5.0
 2022,Favrskov,Krondyr,Hun,Kalv,11.0
-2022,Favrskov,Krondyr,Han,Ikke angivet,9.0
-2022,Favrskov,Krondyr,Hun,Ikke angivet,9.0
 2022,Odder,Krondyr,Han,Kronhjort,3.0
 2022,Odder,Krondyr,Han,Kronhjort,2.0
 2022,Odder,Krondyr,Hun,Kronhind,2.0
 2022,Odder,Krondyr,Hun,Kronhind,3.0
 2022,Odder,Krondyr,Han,Kalv,1.0
 2022,Odder,Krondyr,Hun,Kalv,5.0
-2022,Odder,Krondyr,Han,Ikke angivet,3.0
-2022,Odder,Krondyr,Hun,Ikke angivet,3.0
 2022,Randers,Krondyr,Han,Kronhjort,11.0
 2022,Randers,Krondyr,Han,Kronhjort,1.0
 2022,Randers,Krondyr,Hun,Kronhind,4.0
 2022,Randers,Krondyr,Hun,Kronhind,4.0
 2022,Randers,Krondyr,Han,Kalv,3.0
 2022,Randers,Krondyr,Hun,Kalv,1.0
-2022,Randers,Krondyr,Han,Ikke angivet,1.0
-2022,Randers,Krondyr,Hun,Ikke angivet,6.0
 2022,Silkeborg,Krondyr,Han,Kronhjort,36.0
 2022,Silkeborg,Krondyr,Han,Kronhjort,38.0
 2022,Silkeborg,Krondyr,Hun,Kronhind,59.0
 2022,Silkeborg,Krondyr,Hun,Kronhind,22.0
 2022,Silkeborg,Krondyr,Han,Kalv,36.0
 2022,Silkeborg,Krondyr,Hun,Kalv,64.0
-2022,Silkeborg,Krondyr,Han,Ikke angivet,18.0
-2022,Silkeborg,Krondyr,Hun,Ikke angivet,48.0
 2022,Skanderborg,Krondyr,Han,Kronhjort,14.0
 2022,Skanderborg,Krondyr,Han,Kronhjort,5.0
 2022,Skanderborg,Krondyr,Hun,Kronhind,6.0
 2022,Skanderborg,Krondyr,Hun,Kronhind,2.0
 2022,Skanderborg,Krondyr,Han,Kalv,3.0
 2022,Skanderborg,Krondyr,Hun,Kalv,10.0
-2022,Skanderborg,Krondyr,Han,Ikke angivet,3.0
-2022,Skanderborg,Krondyr,Hun,Ikke angivet,3.0
 2022,Aarhus,Krondyr,Han,Kronhjort,3.0
 2022,Aarhus,Krondyr,Han,Kronhjort,2.0
 2022,Aarhus,Krondyr,Hun,Kronhind,6.0
 2022,Aarhus,Krondyr,Hun,Kronhind,1.0
 2022,Aarhus,Krondyr,Han,Kalv,2.0
 2022,Aarhus,Krondyr,Hun,Kalv,6.0
-2022,Aarhus,Krondyr,Han,Ikke angivet,2.0
-2022,Aarhus,Krondyr,Hun,Ikke angivet,12.0
 2022,Ikast-Brande,Krondyr,Han,Kronhjort,59.0
 2022,Ikast-Brande,Krondyr,Han,Kronhjort,72.0
 2022,Ikast-Brande,Krondyr,Hun,Kronhind,65.0
 2022,Ikast-Brande,Krondyr,Hun,Kronhind,43.0
 2022,Ikast-Brande,Krondyr,Han,Kalv,58.0
 2022,Ikast-Brande,Krondyr,Hun,Kalv,75.0
-2022,Ikast-Brande,Krondyr,Han,Ikke angivet,31.0
-2022,Ikast-Brande,Krondyr,Hun,Ikke angivet,52.0
 2022,Ringkøbing-Skjern,Krondyr,Han,Kronhjort,135.0
 2022,Ringkøbing-Skjern,Krondyr,Han,Kronhjort,88.0
 2022,Ringkøbing-Skjern,Krondyr,Hun,Kronhind,78.0
 2022,Ringkøbing-Skjern,Krondyr,Hun,Kronhind,55.0
 2022,Ringkøbing-Skjern,Krondyr,Han,Kalv,59.0
 2022,Ringkøbing-Skjern,Krondyr,Hun,Kalv,64.0
-2022,Ringkøbing-Skjern,Krondyr,Han,Ikke angivet,65.0
-2022,Ringkøbing-Skjern,Krondyr,Hun,Ikke angivet,59.0
 2022,Hedensted,Krondyr,Han,Kronhjort,4.0
 2022,Hedensted,Krondyr,Han,Kronhjort,3.0
 2022,Hedensted,Krondyr,Hun,Kronhind,1.0
 2022,Hedensted,Krondyr,Han,Kalv,2.0
-2022,Hedensted,Krondyr,Hun,Ikke angivet,1.0
 2022,Skive,Krondyr,Han,Kronhjort,5.0
 2022,Skive,Krondyr,Han,Kronhjort,3.0
 2022,Skive,Krondyr,Hun,Kronhind,3.0
 2022,Skive,Krondyr,Han,Kalv,1.0
 2022,Skive,Krondyr,Hun,Kalv,2.0
-2022,Skive,Krondyr,Han,Ikke angivet,1.0
-2022,Skive,Krondyr,Hun,Ikke angivet,1.0
 2022,Thisted,Krondyr,Han,Kronhjort,59.0
 2022,Thisted,Krondyr,Han,Kronhjort,45.0
 2022,Thisted,Krondyr,Hun,Kronhind,56.0
 2022,Thisted,Krondyr,Hun,Kronhind,33.0
 2022,Thisted,Krondyr,Han,Kalv,31.0
 2022,Thisted,Krondyr,Hun,Kalv,46.0
-2022,Thisted,Krondyr,Han,Ikke angivet,38.0
-2022,Thisted,Krondyr,Hun,Ikke angivet,61.0
 2022,Viborg,Krondyr,Han,Kronhjort,44.0
 2022,Viborg,Krondyr,Han,Kronhjort,19.0
 2022,Viborg,Krondyr,Hun,Kronhind,33.0
 2022,Viborg,Krondyr,Hun,Kronhind,28.0
 2022,Viborg,Krondyr,Han,Kalv,17.0
 2022,Viborg,Krondyr,Hun,Kalv,51.0
-2022,Viborg,Krondyr,Han,Ikke angivet,21.0
-2022,Viborg,Krondyr,Hun,Ikke angivet,47.0
 2022,Brønderslev-Dronninglund,Krondyr,Han,Kronhjort,12.0
 2022,Brønderslev-Dronninglund,Krondyr,Han,Kronhjort,4.0
 2022,Brønderslev-Dronninglund,Krondyr,Hun,Kronhind,5.0
 2022,Brønderslev-Dronninglund,Krondyr,Hun,Kronhind,1.0
 2022,Brønderslev-Dronninglund,Krondyr,Han,Kalv,3.0
 2022,Brønderslev-Dronninglund,Krondyr,Hun,Kalv,3.0
-2022,Brønderslev-Dronninglund,Krondyr,Han,Ikke angivet,7.0
-2022,Brønderslev-Dronninglund,Krondyr,Hun,Ikke angivet,3.0
 2022,Frederikshavn,Krondyr,Han,Kronhjort,28.0
 2022,Frederikshavn,Krondyr,Han,Kronhjort,14.0
 2022,Frederikshavn,Krondyr,Hun,Kronhind,36.0
 2022,Frederikshavn,Krondyr,Hun,Kronhind,12.0
 2022,Frederikshavn,Krondyr,Han,Kalv,15.0
 2022,Frederikshavn,Krondyr,Hun,Kalv,34.0
-2022,Frederikshavn,Krondyr,Han,Ikke angivet,17.0
-2022,Frederikshavn,Krondyr,Hun,Ikke angivet,22.0
 2022,Vesthimmerland,Krondyr,Han,Kronhjort,6.0
 2022,Vesthimmerland,Krondyr,Han,Kronhjort,3.0
 2022,Vesthimmerland,Krondyr,Hun,Kronhind,7.0
 2022,Vesthimmerland,Krondyr,Hun,Kronhind,2.0
 2022,Vesthimmerland,Krondyr,Han,Kalv,5.0
 2022,Vesthimmerland,Krondyr,Hun,Kalv,6.0
-2022,Vesthimmerland,Krondyr,Han,Ikke angivet,9.0
-2022,Vesthimmerland,Krondyr,Hun,Ikke angivet,18.0
 2022,Rebild,Krondyr,Han,Kronhjort,25.0
 2022,Rebild,Krondyr,Han,Kronhjort,13.0
 2022,Rebild,Krondyr,Hun,Kronhind,7.0
 2022,Rebild,Krondyr,Hun,Kronhind,12.0
 2022,Rebild,Krondyr,Han,Kalv,5.0
 2022,Rebild,Krondyr,Hun,Kalv,16.0
-2022,Rebild,Krondyr,Han,Ikke angivet,6.0
-2022,Rebild,Krondyr,Hun,Ikke angivet,10.0
 2022,Mariagerfjord,Krondyr,Han,Kronhjort,14.0
 2022,Mariagerfjord,Krondyr,Han,Kronhjort,6.0
 2022,Mariagerfjord,Krondyr,Hun,Kronhind,4.0
 2022,Mariagerfjord,Krondyr,Hun,Kronhind,2.0
 2022,Mariagerfjord,Krondyr,Han,Kalv,2.0
 2022,Mariagerfjord,Krondyr,Hun,Kalv,5.0
-2022,Mariagerfjord,Krondyr,Han,Ikke angivet,4.0
-2022,Mariagerfjord,Krondyr,Hun,Ikke angivet,7.0
 2022,Jammerbugt,Krondyr,Han,Kronhjort,36.0
 2022,Jammerbugt,Krondyr,Han,Kronhjort,25.0
 2022,Jammerbugt,Krondyr,Hun,Kronhind,37.0
 2022,Jammerbugt,Krondyr,Hun,Kronhind,11.0
 2022,Jammerbugt,Krondyr,Han,Kalv,22.0
 2022,Jammerbugt,Krondyr,Hun,Kalv,32.0
-2022,Jammerbugt,Krondyr,Han,Ikke angivet,22.0
-2022,Jammerbugt,Krondyr,Hun,Ikke angivet,17.0
 2022,Aalborg,Krondyr,Han,Kronhjort,11.0
 2022,Aalborg,Krondyr,Han,Kronhjort,4.0
 2022,Aalborg,Krondyr,Hun,Kronhind,4.0
 2022,Aalborg,Krondyr,Hun,Kronhind,3.0
 2022,Aalborg,Krondyr,Han,Kalv,1.0
 2022,Aalborg,Krondyr,Hun,Kalv,9.0
-2022,Aalborg,Krondyr,Han,Ikke angivet,3.0
-2022,Aalborg,Krondyr,Hun,Ikke angivet,9.0
 2022,Hjørring,Krondyr,Han,Kronhjort,14.0
 2022,Hjørring,Krondyr,Han,Kronhjort,13.0
 2022,Hjørring,Krondyr,Hun,Kronhind,15.0
 2022,Hjørring,Krondyr,Hun,Kronhind,5.0
 2022,Hjørring,Krondyr,Han,Kalv,12.0
 2022,Hjørring,Krondyr,Hun,Kalv,5.0
-2022,Hjørring,Krondyr,Han,Ikke angivet,8.0
-2022,Hjørring,Krondyr,Hun,Ikke angivet,6.0
 2012,Tønder,Mårhund,Han,Han,2.0
 2012,Tønder,Mårhund,Hun,Tæve,2.0
 2012,Fredericia,Mårhund,Hun,Tæve,1.0
@@ -16626,8 +16043,6 @@ Year,Kommune,Species,Køn,Type,Total
 2018,Sorø,Rådyr,Han,Lam,20.0
 2018,Sorø,Rådyr,Hun,Lam,51.0
 2018,Sorø,Rådyr,,Lam,54.0
-2018,Sorø,Rådyr,Han,Ikke angivet,1.0
-2018,Sorø,Rådyr,Hun,Ikke angivet,1.0
 2018,Lejre,Rådyr,Han,Råbuk,100.0
 2018,Lejre,Rådyr,Han,Råbuk,29.0
 2018,Lejre,Rådyr,Han,Råbuk,91.0
@@ -16932,7 +16347,6 @@ Year,Kommune,Species,Køn,Type,Total
 2018,Syddjurs,Rådyr,Han,Lam,57.0
 2018,Syddjurs,Rådyr,Hun,Lam,62.0
 2018,Syddjurs,Rådyr,,Lam,54.0
-2018,Syddjurs,Rådyr,Han,Ikke angivet,4.0
 2018,Norddjurs,Rådyr,Han,Råbuk,241.0
 2018,Norddjurs,Rådyr,Han,Råbuk,62.0
 2018,Norddjurs,Rådyr,Han,Råbuk,181.0
@@ -17059,7 +16473,6 @@ Year,Kommune,Species,Køn,Type,Total
 2018,Thisted,Rådyr,Han,Lam,75.0
 2018,Thisted,Rådyr,Hun,Lam,81.0
 2018,Thisted,Rådyr,,Lam,88.0
-2018,Thisted,Rådyr,Han,Ikke angivet,1.0
 2018,Viborg,Rådyr,Han,Råbuk,472.0
 2018,Viborg,Rådyr,Han,Råbuk,121.0
 2018,Viborg,Rådyr,Han,Råbuk,361.0
@@ -17236,7 +16649,6 @@ Year,Kommune,Species,Køn,Type,Total
 2019,Hillerød,Rådyr,Han,Lam,15.0
 2019,Hillerød,Rådyr,Hun,Lam,21.0
 2019,Hillerød,Rådyr,,Lam,14.0
-2019,Hillerød,Rådyr,Han,Ikke angivet,3.0
 2019,Hørsholm,Rådyr,Han,Råbuk,7.0
 2019,Hørsholm,Rådyr,Han,Råbuk,2.0
 2019,Hørsholm,Rådyr,Han,Råbuk,3.0
@@ -17713,7 +17125,6 @@ Year,Kommune,Species,Køn,Type,Total
 2019,Favrskov,Rådyr,Han,Lam,42.0
 2019,Favrskov,Rådyr,Hun,Lam,55.0
 2019,Favrskov,Rådyr,,Lam,68.0
-2019,Favrskov,Rådyr,Han,Ikke angivet,1.0
 2019,Odder,Rådyr,Han,Råbuk,57.0
 2019,Odder,Rådyr,Han,Råbuk,14.0
 2019,Odder,Rådyr,Han,Råbuk,42.0
@@ -17741,7 +17152,6 @@ Year,Kommune,Species,Køn,Type,Total
 2019,Silkeborg,Rådyr,Han,Lam,62.0
 2019,Silkeborg,Rådyr,Hun,Lam,90.0
 2019,Silkeborg,Rådyr,,Lam,91.0
-2019,Silkeborg,Rådyr,Han,Ikke angivet,1.0
 2019,Samsø,Rådyr,Han,Råbuk,56.0
 2019,Samsø,Rådyr,Han,Råbuk,20.0
 2019,Samsø,Rådyr,Han,Råbuk,49.0

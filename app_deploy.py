@@ -327,9 +327,9 @@ def update_kommune_graph(selected_kommunes, selected_years, sunburst_click_data)
 
     if selected_kommunes:
         kommune_list = ", ".join(selected_kommunes)
-        title += "<br>I kommuner: " + kommune_list 
+        title += "<br>I Kommuner: " + kommune_list 
     else:
-        title += "<br>I Kommuner: Alle kommuner"           
+        title += "<br>I Kommuner: Alle Kommuner"           
 
     if not selected_kommunes:
         filtered_df = df[(df['Year'] >= selected_years[0]) & (df['Year'] <= selected_years[1])]
@@ -347,7 +347,7 @@ def update_kommune_graph(selected_kommunes, selected_years, sunburst_click_data)
         fig.add_trace(go.Scatter(x=aggregated_df["Year"], y=aggregated_df["Taken game"],
                                  mode='lines+markers',
                                  hovertemplate=all_kommunes_hovertemplate,
-                                 name='All Kommunes'))
+                                 name='Alle Kommuner'))
         
         x = aggregated_df['Year']
         y = aggregated_df['Taken game']
@@ -459,7 +459,7 @@ def update_kommune_graph(selected_kommunes, selected_years, sunburst_click_data)
         kommunes_str = ', '.join(selected_kommunes)
         dynamic_title = f"Nedlagt vildt i gruppe: {title_group} <br>I Kommuner: {kommunes_str}"
     else:
-        dynamic_title = f"Nedlagt vildt i gruppe: {title_group} <br> I kommuner: Alle kommuner"
+        dynamic_title = f"Nedlagt vildt i gruppe: {title_group} <br> I Kommuner: Alle Kommuner"
     
     fig = go.Figure()
     is_true = False
@@ -477,13 +477,13 @@ def update_kommune_graph(selected_kommunes, selected_years, sunburst_click_data)
             aggregated_df = aggregated_df.rename(columns = {'Taken game':'Taken game group'})
             is_true = True
             
-        all_kommunes_hovertemplate = "<b>Alle kommuner</b><br>" + \
+        all_kommunes_hovertemplate = "<b>Alle Kommuner</b><br>" + \
                                  "<b>%{x}</b><br>" + \
                                  "Nedlagt: <b>%{y:,.0f}</b><br><extra></extra>"
         
         fig.add_trace(go.Scatter(x=aggregated_df["Year"], y=aggregated_df["Taken game group"],
                                 mode='lines+markers',
-                                name='All Kommunes',
+                                name='Alle Kommuner',
                                 hovertemplate=all_kommunes_hovertemplate))
     
         x = aggregated_df['Year']
@@ -611,8 +611,8 @@ def update_type_proportion_graph(selected_kommunes, selected_years, sunburst_cli
     df_grouped = df_grouped.merge(year_total, on='Year')
     df_grouped['Percentage'] = ((df_grouped['Total'] / df_grouped['Year_Total']) * 100).round(2)
 
-    kommunes_str = ", ".join(selected_kommunes) if selected_kommunes else "Alle kommuner"
-    title = f"Andel fordelt på type: {selected_species}<br>I kommuner: {kommunes_str}"
+    kommunes_str = ", ".join(selected_kommunes) if selected_kommunes else "Alle Kommuner"
+    title = f"Andel fordelt på type: {selected_species}<br>I Kommuner: {kommunes_str}"
 
     fig = px.bar(
     df_grouped,

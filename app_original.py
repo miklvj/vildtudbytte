@@ -353,7 +353,7 @@ def update_kommune_graph(selected_kommunes, selected_years, sunburst_click_data)
 
         fig.add_trace(go.Scatter(x=x, y=m * x + b,
                              mode='lines',
-                             name='Trend Line',
+                             name='Tendenslinje',
                              line=dict(color='black', dash='dash'),
                              hoverinfo='none'))  
 
@@ -384,7 +384,7 @@ def update_kommune_graph(selected_kommunes, selected_years, sunburst_click_data)
         
         fig.add_trace(go.Scatter(x=x, y=m * x + b,
                              mode='lines',
-                             name='Trend Line',
+                             name='Tendenslinje',
                              line=dict(color='black', dash='dash'),
                              hoverinfo='none'))  
 
@@ -398,7 +398,7 @@ def update_kommune_graph(selected_kommunes, selected_years, sunburst_click_data)
         'font': dict(size=16) 
     },
     legend=dict(itemclick=False, itemdoubleclick=False),
-    showlegend=False,
+    showlegend=True if selected_species is None else False,
     plot_bgcolor="#FFFFFF",
     title_pad=dict(t=20),
     font=dict(size=14),  
@@ -410,7 +410,7 @@ def update_kommune_graph(selected_kommunes, selected_years, sunburst_click_data)
     
     pastel_colors = px.colors.qualitative.Pastel
     for i, trace in enumerate(fig.data):
-        if trace.name != 'Trend Line': 
+        if trace.name != 'Tendenslinje': 
             fig.data[i].line.color = pastel_colors[i % len(pastel_colors)]
             fig.update_xaxes(dtick=1)
     
@@ -490,7 +490,7 @@ def update_kommune_graph(selected_kommunes, selected_years, sunburst_click_data)
         
         fig.add_trace(go.Scatter(x=x, y=m * x + b,
                              mode='lines',
-                             name='Trend Line',
+                             name='Tendenslinje',
                              line=dict(color='black', dash='dash'),
                              hoverinfo='none'))  
     
@@ -528,7 +528,7 @@ def update_kommune_graph(selected_kommunes, selected_years, sunburst_click_data)
         
         fig.add_trace(go.Scatter(x=x, y=m * x + b,
                                  mode='lines',
-                                 name='Trend Line',  
+                                 name='Tendenslinje',  
                                  line=dict(color='black', dash='dash'),
                                  hoverinfo='none'))
         
@@ -553,7 +553,7 @@ def update_kommune_graph(selected_kommunes, selected_years, sunburst_click_data)
 
     pastel_colors = px.colors.qualitative.Pastel
     for i, trace in enumerate(fig.data):
-        if trace.name != 'Trend Line': 
+        if trace.name != 'Tendenslinje': 
             fig.data[i].line.color = pastel_colors[i % len(pastel_colors)]
             fig.update_xaxes(dtick=1)
 

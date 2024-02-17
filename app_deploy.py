@@ -6,7 +6,6 @@ Created on Feb 17 2023
 
 """
 
-import os 
 import pandas as pd
 import json
 import dash
@@ -17,8 +16,7 @@ import plotly.graph_objs as go
 import plotly.express as px
 import numpy as np
 import dash_bootstrap_components as dbc
-
-os.chdir('C:/Users/mikke/OneDrive - Syddansk Universitet/Projects/vildtudbytte') #set path
+import requests
 
 
 
@@ -28,12 +26,16 @@ Load data, color palette & variables for callback
 
 
 
-with open('dansk_kommuner_geojson.json', encoding='utf-8') as response:
-    kommuner = json.load(response)
+url = 'https://raw.githubusercontent.com/miklvj/vildtudbytte/master/dansk_kommuner_geojson.json'
+response = requests.get(url)
+if response.status_code == 200:
+    kommuner = json.loads(response.content.decode('utf-8'))
+else:
+    print("Failed to retrieve data")
 
-df = pd.read_csv("taken_game.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/miklvj/vildtudbytte/master/taken_game.csv")
 
-df_detailed = pd.read_csv("data_detailed.csv")
+df_detailed = pd.read_csv("https://raw.githubusercontent.com/miklvj/vildtudbytte/master/data_detailed.csv")
 
 color_palette_detailed = ['#66c2a5', '#fc8d62', '#8da0cb']
 

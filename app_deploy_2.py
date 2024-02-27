@@ -6,7 +6,6 @@ Created on Feb 17 2023
 
 """
 
-import os 
 import pandas as pd
 import json
 import dash
@@ -17,8 +16,8 @@ import plotly.graph_objs as go
 import plotly.express as px
 import numpy as np
 import dash_bootstrap_components as dbc
+import requests
 
-os.chdir('C:/Users/mikke/OneDrive - Syddansk Universitet/Projects/vildtudbytte') #set path
 
 
 
@@ -28,12 +27,16 @@ Load data, color palette & variables for callback
 
 
 
-with open('dansk_kommuner_geojson.json', encoding='utf-8') as response:
-    kommuner = json.load(response)
+url = 'https://raw.githubusercontent.com/miklvj/vildtudbytte/master/dansk_kommuner_geojson.json'
+response = requests.get(url)
+if response.status_code == 200:
+    kommuner = json.loads(response.content.decode('utf-8'))
+else:
+    print("Failed to retrieve data")
 
-df = pd.read_csv("taken_game.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/miklvj/vildtudbytte/master/taken_game.csv")
 
-df_detailed = pd.read_csv("data_detailed.csv")
+df_detailed = pd.read_csv("https://raw.githubusercontent.com/miklvj/vildtudbytte/master/data_detailed.csv")
 
 color_palette_detailed = ['#66c2a5', '#fc8d62', '#8da0cb']
 
@@ -101,7 +104,21 @@ app.layout = dbc.Container([
 
 app.layout.children.append(dcc.Store(id='selected_kommunes', data=[]))
 app.layout.children.append(dcc.Store(id='sunburst_click_depth', data={}))
+app.layout.children.append(dcc.Store(id='slider_values', data={'min': min_year, 'max': max_year, 'value': [min_year, max_year]}))
 
+
+
+@app.callback(
+    Output('slider_values', 'data'),
+    [Input('range_slider', 'value')],
+    [State('slider_values', 'data')]
+)
+def update_slider_values(slider_value, stored_values):
+    # Update stored values only if slider_value changes
+    if slider_value != stored_values['value']:
+        min_year, max_year = slider_value
+        return {'min': min_year, 'max': max_year, 'value': slider_value}
+    return stored_values
 
 
 '''
@@ -145,35 +162,30 @@ Range Slider
     Output('range_slider', 'max'),
     Output('range_slider', 'marks'),
     Output('range_slider', 'value'),
-    [Input("species_sunburst", "clickData")])
-    
-def update_slider_based_on_selections(sunburst_click_data):
-    
-        filtered_df = df
-        
-        if sunburst_click_data:
-            selected_species = sunburst_click_data['points'][0]['label']
+    [Input("species_sunburst", "clickData"),
+     Input('slider_values', 'data')]
+)
+def update_slider_based_on_selections(sunburst_click_data, slider_values):
+    filtered_df = df
 
-        else:
-            selected_species = None
-        
+    if sunburst_click_data:
+        selected_species = sunburst_click_data['points'][0]['label']
         if selected_species in set(filtered_df['Species']):
             filtered_df = filtered_df[filtered_df['Species'] == selected_species]
         elif selected_species in set(filtered_df['Group']):
             filtered_df = filtered_df[filtered_df['Group'] == selected_species]
+        min_year = min(filtered_df['Year'], default=slider_values['min'])
+        max_year = max(filtered_df['Year'], default=slider_values['max'])
+    else:
+        min_year = slider_values['min']
+        max_year = slider_values['max']
 
-        min_year = min(filtered_df['Year'])
-        max_year = max(filtered_df['Year'])
-            
-        available_years = range(min_year, max_year + 1)
+    available_years = range(min_year, max_year + 1)
+    marks = {year: {'label': str(year), 'style': {'font-size': '14px'}} for year in available_years}
+    value = slider_values['value']  # Use stored value instead of dynamically changing
     
-        marks = {year: {'label': str(year), 'style': {'font-size': '14px'}} for year in available_years}
-        
-        min_year = min(available_years)
-        max_year = max(available_years)
-        value = [min_year, max_year]
-    
-        return min_year, max_year, marks, value
+    return min_year, max_year, marks, value
+
 
 
 '''
@@ -214,12 +226,13 @@ def update_sunburst(selected_years, selected_kommunes, click_depth):
         height=475,
         path=["Group", "Species"],
         color=color_column,
-        color_discrete_sequence=px.colors.qualitative.Pastel if depth != 2 else ['#aad3df'],
+        color_discrete_sequence=px.colors.qualitative.Pastel if depth != 2 else ['#d8dcdc'],
         values='Taken game log',
     )
 
     fig.update_layout(margin=dict(t=10, l=10, r=10, b=10))
-    fig.update_traces(insidetextorientation='radial', hovertemplate='%{label}')
+    fig.update_traces(insidetextorientation='radial', 
+                  hovertemplate='%{label}<br>%{percentEntry:.2%}')
 
     return fig
 
@@ -281,16 +294,18 @@ def display_map(selected_years, sunburst_click_data, selected_kommunes):
     
     #to ensure no bad updates for map
     
-    new_row = {
-        'Kommune': 'Ingen',
-        'Year': max(selected_years),  
-        'Taken game': 1,  
-        'Procentvis ændring': 0,
-        'TakenGameYearStart': 1,
-        'TakenGameYearEnd': 1,
-        }
+    new_row_data = {
+    'Kommune': ['Ingen'],
+    'Year': [max(selected_years)],
+    'Taken game': [1],
+    'Procentvis ændring': [0],
+    'TakenGameYearStart': [1],
+    'TakenGameYearEnd': [1]
+    }
+    
+    new_row_df = pd.DataFrame(new_row_data)
 
-    df_grouped = df_grouped.append(new_row, ignore_index=True)
+    df_grouped = pd.concat([df_grouped, new_row_df], ignore_index=True)
 
 
     df_grouped['CustomHoverText'] = df_grouped['Kommune'] + '<br>' + \
@@ -299,13 +314,14 @@ def display_map(selected_years, sunburst_click_data, selected_kommunes):
                                       'Nedlagt vildt i ' + str(selected_years[1]) + ': ' + df_grouped['TakenGameYearEnd'].astype(str) + '<br>' + \
                                       'Viser: ' + str(hover_label)
     
+# Your existing code to create the figure
     fig = px.choropleth_mapbox(
         df_grouped, 
         geojson=kommuner, 
         locations='Kommune',  
         featureidkey="properties.navn",  
         color='Procentvis ændring',
-        color_continuous_scale="RdBu",
+        color_continuous_scale="RdBu_r",
         range_color=[-150, 150],
         color_continuous_midpoint=0,
         center={"lat": 55.9581, "lon": 9.8476},  
@@ -337,11 +353,13 @@ def display_map(selected_years, sunburst_click_data, selected_kommunes):
                 name=''
             )
         )
-    
+    fig.update_layout(mapbox_style="carto-positron")
     fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
     
     
     return fig
+
+
 
 
 
@@ -778,4 +796,3 @@ RUN SERVER
 
 if __name__ == '__main__':
     app.run_server()
-    

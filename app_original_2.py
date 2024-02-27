@@ -228,7 +228,8 @@ def update_sunburst(selected_years, selected_kommunes, click_depth):
     )
 
     fig.update_layout(margin=dict(t=10, l=10, r=10, b=10))
-    fig.update_traces(insidetextorientation='radial', hovertemplate='%{label}')
+    fig.update_traces(insidetextorientation='radial', 
+                  hovertemplate='%{label}<br>%{percentEntry:.2%}')
 
     return fig
 
@@ -290,16 +291,18 @@ def display_map(selected_years, sunburst_click_data, selected_kommunes):
     
     #to ensure no bad updates for map
     
-    new_row = {
-        'Kommune': 'Ingen',
-        'Year': max(selected_years),  
-        'Taken game': 1,  
-        'Procentvis ændring': 0,
-        'TakenGameYearStart': 1,
-        'TakenGameYearEnd': 1,
-        }
+    new_row_data = {
+    'Kommune': ['Ingen'],
+    'Year': [max(selected_years)],
+    'Taken game': [1],
+    'Procentvis ændring': [0],
+    'TakenGameYearStart': [1],
+    'TakenGameYearEnd': [1]
+    }
+    
+    new_row_df = pd.DataFrame(new_row_data)
 
-    df_grouped = df_grouped.append(new_row, ignore_index=True)
+    df_grouped = pd.concat([df_grouped, new_row_df], ignore_index=True)
 
 
     df_grouped['CustomHoverText'] = df_grouped['Kommune'] + '<br>' + \
@@ -790,4 +793,3 @@ RUN SERVER
 
 if __name__ == '__main__':
     app.run_server()
-    
